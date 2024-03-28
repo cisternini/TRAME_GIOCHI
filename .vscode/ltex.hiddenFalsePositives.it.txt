@@ -1,0 +1,2 @@
+{"rule":"ITALIAN_WORD_REPEAT_RULE","sentence":"^\\Qgoblin Goblin lupo Lupo sildar Sildar bugbear BugBear marchirossi Marchi Rossi orco Orco ogre Ogre kost Kost\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QKlarg ha aanche forziere con 600 mr, 110 ma due pozioni di guarigione e una statuetta di giada che raffigura una rana con due minuscoli globi dorati al posto degli occhi ( 40 mo) , può andare in tasca\\E$"}
