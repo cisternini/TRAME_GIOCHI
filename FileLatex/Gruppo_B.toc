@@ -1,0 +1,49 @@
+\contentsline {section}{\numberline {1}Trama}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Nemici}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}La Torre del Mago (da Liv 1 a liv 2)}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Sotterranei}{4}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Primo Piano}{5}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Secondo Piano}{5}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Terzo Piano}{5}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Ultimo Piano}{5}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}il Re rospo}{5}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Palude}{6}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Villaggio}{6}{subsubsection.1.3.2}%
+\contentsline {subparagraph}{Comportamento}{6}{section*.2}%
+\contentsline {subsection}{\numberline {1.4}Waterdeep: il furto dei dragoni}{6}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Setting dell'avventura}{6}{subsubsection.1.4.1}%
+\contentsline {subparagraph}{Nemico principale: }{6}{section*.3}%
+\contentsline {subparagraph}{Interdizione Draconica di Ahghairon}{6}{section*.4}%
+\contentsline {subsubsection}{\numberline {1.4.2}Il Viaggio}{7}{subsubsection.1.4.2}%
+\contentsline {paragraph}{Mare dei Morti}{7}{section*.5}%
+\contentsline {paragraph}{ Descrizione }{7}{section*.6}%
+\contentsline {paragraph}{Incontri}{7}{section*.7}%
+\contentsline {subparagraph}{Mephit del Fango}{7}{section*.8}%
+\contentsline {subparagraph}{Coccodrillo}{7}{section*.9}%
+\contentsline {subparagraph}{Ragno Gigante}{7}{section*.10}%
+\contentsline {subparagraph}{Rudere e Vecchietto-Cannibale}{7}{section*.11}%
+\contentsline {subparagraph}{Monti della Spada: Valle}{8}{section*.20}%
+\contentsline {subsubsection}{\numberline {1.4.3}Arrivo a Waterdeep : Capitolo 1}{8}{subsubsection.1.4.3}%
+\contentsline {paragraph}{Rissa in Teverna: Portale Spalancato}{8}{section*.21}%
+\contentsline {subparagraph}{Descrizione}{9}{section*.22}%
+\contentsline {subparagraph}{Rissa}{9}{section*.23}%
+\contentsline {paragraph}{UN TROLL E I SUOI AMICI}{9}{section*.24}%
+\contentsline {subparagraph}{Descrizione}{9}{section*.25}%
+\contentsline {subparagraph}{Cosa succe}{9}{section*.26}%
+\contentsline {paragraph}{Incontro con Volo}{9}{section*.27}%
+\contentsline {subparagraph}{Descrizione}{10}{section*.28}%
+\contentsline {subparagraph}{Cosa succede}{10}{section*.29}%
+\contentsline {subparagraph}{Cosa E Successo QUELLA NOTTE?}{10}{section*.30}%
+\contentsline {paragraph}{Trivare Floon}{10}{section*.31}%
+\contentsline {subparagraph}{Strade insanguinate}{10}{section*.32}%
+\contentsline {subparagraph}{PERLUSTRARE IL QUARTIERE DEL PORTO}{11}{section*.33}%
+\contentsline {subparagraph}{L NEGOZIO DEL VECCHIO XOBLOB}{11}{section*.34}%
+\contentsline {subparagraph}{L DRAGO INFILZATO}{11}{section*.35}%
+\contentsline {subparagraph}{STRADINA DELLE CANDELE}{12}{section*.36}%
+\contentsline {paragraph}{Il nascondiglio degli Zhentarim}{12}{section*.37}%
+\contentsline {subparagraph}{Z1. CAMERA PRINCIPALE}{12}{section*.38}%
+\contentsline {subparagraph}{Z2. RIPOSTIGLIO}{13}{section*.39}%
+\contentsline {subparagraph}{Z3. STANZA SEGRETA}{13}{section*.40}%
+\contentsline {subparagraph}{Z4. BALCONE}{13}{section*.41}%
+\contentsline {subparagraph}{Z5. UFFICI}{13}{section*.42}%
+\contentsline {paragraph}{ARRIVA LA VIGILANZA}{13}{section*.43}%
