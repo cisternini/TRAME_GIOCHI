@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.14)  8 APR 2024 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.14)  14 APR 2024 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/DND/Trame_DND/FileLatex/Trama_principale.tex
-(d:/DND/Trame_DND/FileLatex/Trama_principale.tex
+**d:/DND/Trame_DND/FileLatex/One_Shoot.tex
+(d:/DND/Trame_DND/FileLatex/One_Shoot.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (d:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -300,45 +300,31 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen177
 \Gm@layoutvoffset=\dimen178
 \Gm@dimlist=\toks22
-) (d:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (d:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
- (d:/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
-\Trama_principale@idxfile=\write3
-\openout3 = `Trama_principale.idx'.
-
-
-Writing index file Trama_principale.idx
-(d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box101
-) (./Trama_principale.aux)
-\openout1 = `Trama_principale.aux'.
+) (./One_Shoot.aux)
+\openout1 = `One_Shoot.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
  (d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count291
@@ -358,10 +344,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (d:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 18.
- (./Trama_principale.out) (./Trama_principale.out)
-\@outlinefile=\write4
-\openout4 = `Trama_principale.out'.
+Package hyperref Info: Link coloring OFF on input line 10.
+ (./One_Shoot.out) (./One_Shoot.out)
+\@outlinefile=\write3
+\openout3 = `One_Shoot.out'.
 
 
 *geometry* driver: auto-detecting
@@ -398,13 +384,52 @@ Package hyperref Info: Link coloring OFF on input line 18.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./Trama_principale.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
- [1
+[1
 
-{d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-!pdfTeX error: pdflatex.exe (file d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map): fflush() failed (Invalid argument)
- ==> Fatal error occurred, no output PDF file produced!
+{d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+
+ []
+
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 276--292
+
+ []
+
+[12]
+Overfull \hbox (20.71838pt too wide) in paragraph at lines 309--311
+\OT1/cmr/m/n/10 Viene for-nito in una pic-cola sca-tolina che con-tiene un po' di unguento suf-fi-ciente per un'applicazione
+ []
+
+[13] [14] [15] (./One_Shoot.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `One_Shoot.out' has not changed.
+(rerunfilecheck)             Checksum: C277F23A1B3389A284238C787001C79F;1250.
+ ) 
+Here is how much of TeX's memory you used:
+ 10511 strings out of 476075
+ 164587 string characters out of 5793307
+ 1941190 words of memory out of 5000000
+ 32405 multiletter control sequences out of 15000+600000
+ 560268 words of font info for 43 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 75i,5n,79p,977b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{fuco} has been referenced but does not exist, replaced by a fixed one
+
+ <c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on One_Shoot.pdf (15 pages, 131235 bytes).
+PDF statistics:
+ 233 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 96 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+
