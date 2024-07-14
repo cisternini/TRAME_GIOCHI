@@ -1,6 +1,5 @@
 *.synctex.gz
 *.tox
-*.tex
 *.aux
 *.log
 *.out
