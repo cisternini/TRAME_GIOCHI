@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.14)  12 MAY 2024 21:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.14)  6 JUL 2024 20:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -223,7 +223,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip50
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 20.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 21.
  (d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
@@ -231,24 +231,24 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 ) (./Gruppo_A.aux)
 \openout1 = `Gruppo_A.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
  (d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count281
@@ -302,7 +302,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 22.
+Package hyperref Info: Link coloring OFF on input line 23.
 (./Gruppo_A.out) (./Gruppo_A.out)
 \@outlinefile=\write3
 \openout3 = `Gruppo_A.out'.
@@ -320,282 +320,283 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 26.
+(Font)              <12> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
+(Font)              <8> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
-<../Mostri/Goblin.png, id=515, 296.90926pt x 355.3275pt>
+(Font)              <6> on input line 27.
+<../Mostri/Goblin.png, id=575, 296.90926pt x 355.3275pt>
 File: ../Mostri/Goblin.png Graphic file (type png)
 <use ../Mostri/Goblin.png>
-Package pdftex.def Info: ../Mostri/Goblin.png  used on input line 34.
+Package pdftex.def Info: ../Mostri/Goblin.png  used on input line 35.
 (pdftex.def)             Requested size: 113.8098pt x 170.71791pt.
-<../Mostri/Lupo.png, id=517, 360.1455pt x 455.301pt>
+<../Mostri/Lupo.png, id=577, 360.1455pt x 455.301pt>
 File: ../Mostri/Lupo.png Graphic file (type png)
 <use ../Mostri/Lupo.png>
-Package pdftex.def Info: ../Mostri/Lupo.png  used on input line 34.
+Package pdftex.def Info: ../Mostri/Lupo.png  used on input line 35.
 (pdftex.def)             Requested size: 113.80911pt x 170.7166pt.
-<../PNG/Sildar_Hallwinter.png, id=518, 292.6935pt x 483.0045pt>
+<../PNG/Sildar_Hallwinter.png, id=578, 292.6935pt x 483.0045pt>
 File: ../PNG/Sildar_Hallwinter.png Graphic file (type png)
 <use ../PNG/Sildar_Hallwinter.png>
-Package pdftex.def Info: ../PNG/Sildar_Hallwinter.png  used on input line 34.
+Package pdftex.def Info: ../PNG/Sildar_Hallwinter.png  used on input line 35.
 (pdftex.def)             Requested size: 113.81058pt x 170.71236pt.
-<../Mostri/Bugbear.png, id=519, 195.73125pt x 289.08pt>
+<../Mostri/Bugbear.png, id=579, 195.73125pt x 289.08pt>
 File: ../Mostri/Bugbear.png Graphic file (type png)
 <use ../Mostri/Bugbear.png>
-Package pdftex.def Info: ../Mostri/Bugbear.png  used on input line 35.
+Package pdftex.def Info: ../Mostri/Bugbear.png  used on input line 36.
 (pdftex.def)             Requested size: 113.81091pt x 170.71451pt.
-<../Mostri/Marchi Rossi.PNG, id=520, 323.40825pt x 367.3725pt>
+<../Mostri/Marchi Rossi.PNG, id=580, 323.40825pt x 367.3725pt>
 File: ../Mostri/Marchi Rossi.PNG Graphic file (type png)
 <use ../Mostri/Marchi Rossi.PNG>
-Package pdftex.def Info: ../Mostri/Marchi Rossi.PNG  used on input line 38.
+Package pdftex.def Info: ../Mostri/Marchi Rossi.PNG  used on input line 39.
 (pdftex.def)             Requested size: 113.81142pt x 170.71992pt.
-<../Mostri/Orco.PNG, id=521, 299.31825pt x 391.4625pt>
+<../Mostri/Orco.PNG, id=581, 299.31825pt x 391.4625pt>
 File: ../Mostri/Orco.PNG Graphic file (type png)
 <use ../Mostri/Orco.PNG>
-Package pdftex.def Info: ../Mostri/Orco.PNG  used on input line 38.
+Package pdftex.def Info: ../Mostri/Orco.PNG  used on input line 39.
 (pdftex.def)             Requested size: 113.81062pt x 170.71487pt.
-<../Mostri/Ogre.png, id=522, 230.0595pt x 271.61475pt>
+<../Mostri/Ogre.png, id=582, 230.0595pt x 271.61475pt>
 File: ../Mostri/Ogre.png Graphic file (type png)
 <use ../Mostri/Ogre.png>
-Package pdftex.def Info: ../Mostri/Ogre.png  used on input line 38.
+Package pdftex.def Info: ../Mostri/Ogre.png  used on input line 39.
 (pdftex.def)             Requested size: 113.81134pt x 170.71617pt.
-<../Mostri/HalmunKost.png, id=523, 290.88675pt x 350.5095pt>
+<../Mostri/HalmunKost.png, id=583, 290.88675pt x 350.5095pt>
 File: ../Mostri/HalmunKost.png Graphic file (type png)
 <use ../Mostri/HalmunKost.png>
-Package pdftex.def Info: ../Mostri/HalmunKost.png  used on input line 38.
+Package pdftex.def Info: ../Mostri/HalmunKost.png  used on input line 39.
 (pdftex.def)             Requested size: 113.80933pt x 170.71893pt.
 
-Overfull \hbox (19.54752pt too wide) in paragraph at lines 31--42
+Overfull \hbox (19.54752pt too wide) in paragraph at lines 32--43
  [][] 
  []
 
-<../Mostri/Zombi.png, id=524, 227.04825pt x 305.34074pt>
+<../Mostri/Zombi.png, id=584, 227.04825pt x 305.34074pt>
 File: ../Mostri/Zombi.png Graphic file (type png)
 <use ../Mostri/Zombi.png>
-Package pdftex.def Info: ../Mostri/Zombi.png  used on input line 49.
+Package pdftex.def Info: ../Mostri/Zombi.png  used on input line 50.
 (pdftex.def)             Requested size: 113.81139pt x 170.71942pt.
-<../Mostri/UccelloStigeo.png, id=525, 221.628pt x 304.13625pt>
+<../Mostri/UccelloStigeo.png, id=585, 221.628pt x 304.13625pt>
 File: ../Mostri/UccelloStigeo.png Graphic file (type png)
 <use ../Mostri/UccelloStigeo.png>
-Package pdftex.def Info: ../Mostri/UccelloStigeo.png  used on input line 49.
+Package pdftex.def Info: ../Mostri/UccelloStigeo.png  used on input line 50.
 (pdftex.def)             Requested size: 113.80997pt x 170.71887pt.
-<../Mostri/Nothic.png, id=526, 301.72725pt x 494.44725pt>
+<../Mostri/Nothic.png, id=586, 301.72725pt x 494.44725pt>
 File: ../Mostri/Nothic.png Graphic file (type png)
 <use ../Mostri/Nothic.png>
-Package pdftex.def Info: ../Mostri/Nothic.png  used on input line 49.
+Package pdftex.def Info: ../Mostri/Nothic.png  used on input line 50.
 (pdftex.def)             Requested size: 113.81041pt x 170.71274pt.
-<../Mostri/Scheletro.png, id=527, 284.262pt x 370.986pt>
+<../Mostri/Scheletro.png, id=587, 284.262pt x 370.986pt>
 File: ../Mostri/Scheletro.png Graphic file (type png)
 <use ../Mostri/Scheletro.png>
-Package pdftex.def Info: ../Mostri/Scheletro.png  used on input line 49.
+Package pdftex.def Info: ../Mostri/Scheletro.png  used on input line 50.
 (pdftex.def)             Requested size: 113.81122pt x 170.71222pt.
 File: ../Mostri/HalmunKost.png Graphic file (type png)
 <use ../Mostri/HalmunKost.png>
-Package pdftex.def Info: ../Mostri/HalmunKost.png  used on input line 52.
+Package pdftex.def Info: ../Mostri/HalmunKost.png  used on input line 53.
 (pdftex.def)             Requested size: 113.80933pt x 170.71893pt.
 
-Overfull \hbox (19.5462pt too wide) in paragraph at lines 47--56
+Overfull \hbox (19.5462pt too wide) in paragraph at lines 48--57
  [][] 
  []
 
 [3] [4 <../Mostri/Goblin.png> <../Mostri/Lupo.png> <../PNG/Sildar_Hallwinter.png> <../Mostri/Bugbear.png> <../Mostri/Marchi Rossi.PNG> <../Mostri/Orco.PNG> <../Mostri/Ogre.png> <../Mostri/HalmunKost.png>] [5 <../Mostri/Zombi.png> <../Mostri/UccelloStigeo.png> <../Mostri/Nothic.png> <../Mostri/Scheletro.png>] [6]
-<../Mappe/NascondiglioDiCagramaw.PNG, id=590, 759.43726pt x 528.7755pt>
+<../Mappe/NascondiglioDiCagramaw.PNG, id=650, 759.43726pt x 528.7755pt>
 File: ../Mappe/NascondiglioDiCagramaw.PNG Graphic file (type png)
 <use ../Mappe/NascondiglioDiCagramaw.PNG>
-Package pdftex.def Info: ../Mappe/NascondiglioDiCagramaw.PNG  used on input line 100.
+Package pdftex.def Info: ../Mappe/NascondiglioDiCagramaw.PNG  used on input line 101.
 (pdftex.def)             Requested size: 569.08984pt x 341.44084pt.
 
-Overfull \hbox (85.393pt too wide) in paragraph at lines 100--101
+Overfull \hbox (85.393pt too wide) in paragraph at lines 101--102
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--134
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
 
  []
 
 [7 <../Mappe/NascondiglioDiCagramaw.PNG>] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 222--237
+Underfull \hbox (badness 10000) in paragraph at lines 223--238
 
  []
 
 [9]
-Overfull \hbox (4.43477pt too wide) in paragraph at lines 313--316
+Overfull \hbox (4.43477pt too wide) in paragraph at lines 314--317
 []\OT1/cmr/bx/n/10 Tesoro\OT1/cmr/m/n/10 Yeemik porta con s^^Se un borsello con-te-nente tre denti d'oro (1 mo cias-cuno) e 15 ma. L'equipaggiamento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--339
+Underfull \hbox (badness 10000) in paragraph at lines 332--340
 
  []
 
 [10]
-<../Mappe/Phandalin.PNG, id=611, 760.0395pt x 530.58224pt>
+<../Mappe/Phandalin.PNG, id=672, 760.0395pt x 530.58224pt>
 File: ../Mappe/Phandalin.PNG Graphic file (type png)
 <use ../Mappe/Phandalin.PNG>
-Package pdftex.def Info: ../Mappe/Phandalin.PNG  used on input line 396.
+Package pdftex.def Info: ../Mappe/Phandalin.PNG  used on input line 397.
 (pdftex.def)             Requested size: 570.02824pt x 397.9357pt.
  [11 <../Mappe/Phandalin.PNG>] [12] [13]
-Overfull \hbox (3.24522pt too wide) in paragraph at lines 687--693
+Overfull \hbox (3.24522pt too wide) in paragraph at lines 688--694
  \OT1/cmr/bx/n/10 3.3.8.3 Merci Re-cu-per-ate[][] \OT1/cmr/m/n/10 . Se i per-son-aggi resti-tu-is-cono le merci ru-bate trovate nell'area 8 del nascondiglio
  []
 
 [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 905--915
+Underfull \hbox (badness 10000) in paragraph at lines 906--916
 
  []
 
 [17]
-Overfull \hbox (0.69199pt too wide) in paragraph at lines 988--993
+Overfull \hbox (0.69199pt too wide) in paragraph at lines 989--994
  \OT1/cmr/bx/n/10 3.3.17.1 Tratti Gen-er-ali[][] \OT1/cmr/m/n/10 Il nascondiglio ^^Re com-posto da una se-rie di camere di dun-geon di sol-ida costruzione,
  []
 
-<../Mappe/NascondiglioDeiMarchiRossi.PNG, id=696, 660.66824pt x 461.3235pt>
+<../Mappe/NascondiglioDeiMarchiRossi.PNG, id=757, 660.66824pt x 461.3235pt>
 File: ../Mappe/NascondiglioDeiMarchiRossi.PNG Graphic file (type png)
 <use ../Mappe/NascondiglioDeiMarchiRossi.PNG>
-Package pdftex.def Info: ../Mappe/NascondiglioDeiMarchiRossi.PNG  used on input line 1023.
+Package pdftex.def Info: ../Mappe/NascondiglioDeiMarchiRossi.PNG  used on input line 1024.
 (pdftex.def)             Requested size: 569.08098pt x 341.4374pt.
 
-Overfull \hbox (85.38414pt too wide) in paragraph at lines 1023--1024
+Overfull \hbox (85.38414pt too wide) in paragraph at lines 1024--1025
 [][] 
  []
 
 [18] [19 <../Mappe/NascondiglioDeiMarchiRossi.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 1106--1131
+Underfull \hbox (badness 10000) in paragraph at lines 1107--1132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1157--1170
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1171--1176
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1177--1187
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1188
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1201
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1215--1224
+Underfull \hbox (badness 10000) in paragraph at lines 1216--1225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1230--1235
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1283
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1284
 
  []
 
 [21] [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1485
 
  []
 
 [23] [24]
-Overfull \hbox (3.54695pt too wide) in paragraph at lines 1565--1610
+Overfull \hbox (3.54695pt too wide) in paragraph at lines 1566--1611
 []\OT1/cmr/bx/n/10 Iarno:\OT1/cmr/m/n/10 Iarno ^^Re un ex-membro dell'Alleanza dei Lord che, una volta giunto a Phan-dalin, ha colto un'opportunit^^Ra
  []
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1665.
 
 [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1752.
+(hyperref)                than one, level fixed on input line 1690.
 
-[26] [27] [28]
+[26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1950.
+(hyperref)                than one, level fixed on input line 1777.
 
+[27] [28]
 
-Underfull \hbox (badness 10000) in paragraph at lines 1965--1968
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1975--1976
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1999
-
- []
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1975.
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2030
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1993
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2033--2034
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2001
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2035--2040
+Underfull \hbox (badness 10000) in paragraph at lines 2017--2024
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2044--2050
+Underfull \hbox (badness 10000) in paragraph at lines 2051--2055
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2059
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2060--2065
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2069--2075
 
  []
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 2109--2129
+Underfull \hbox (badness 10000) in paragraph at lines 2134--2154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2109--2129
+Underfull \hbox (badness 10000) in paragraph at lines 2134--2154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2131--2161
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2131--2161
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2186
 
  []
 
-[31] (./Gruppo_A.aux)
+[31] [32] (./Gruppo_A.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `Gruppo_A.out' has not changed.
-(rerunfilecheck)             Checksum: 65672989BAC2A846CCB8B7FF064C3129;16195.
+(rerunfilecheck)             Checksum: D9DF3DF0F4EAC7304230898034CDC137;17926.
  ) 
 Here is how much of TeX's memory you used:
- 10531 strings out of 476075
- 166609 string characters out of 5793307
+ 10556 strings out of 476075
+ 167152 string characters out of 5793307
  1958190 words of memory out of 5000000
- 32269 multiletter control sequences out of 15000+600000
+ 32281 multiletter control sequences out of 15000+600000
  563306 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,12n,79p,1394b,603s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1394b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{nascondiglio} has been referenced but does not exist, replaced by a fixed one
 
@@ -621,10 +622,10 @@ pdfTeX warning (dest): name{phandalin} has been referenced but does not exist, r
 pdfTeX warning (dest): name{phandlin} has been referenced but does not exist, replaced by a fixed one
 
  <c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Gruppo_A.pdf (31 pages, 13027129 bytes).
+Output written on Gruppo_A.pdf (32 pages, 13029721 bytes).
 PDF statistics:
- 909 PDF objects out of 1000 (max. 8388607)
- 823 compressed objects within 9 object streams
- 247 named destinations out of 1000 (max. 500000)
- 868 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 976 PDF objects out of 1000 (max. 8388607)
+ 889 compressed objects within 9 object streams
+ 260 named destinations out of 1000 (max. 500000)
+ 964 words of extra memory for PDF output out of 10000 (max. 10000000)
 

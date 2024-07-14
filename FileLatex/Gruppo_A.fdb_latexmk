@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715542195.85016 "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" "Gruppo_A.pdf" "Gruppo_A" 1715542207.2143 0
+["pdflatex"] 1720289268.79053 "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" "Gruppo_A.pdf" "Gruppo_A" 1720289272.42291 0
   "../Mappe/NascondiglioDeiMarchiRossi.PNG" 1704834882 2438706 973cac06200452fb3c12c421606036ad ""
   "../Mappe/NascondiglioDiCagramaw.PNG" 1702122638 3108968 84acf248c1b500044e4e5697c34ff512 ""
   "../Mappe/Phandalin.PNG" 1706128869 2312636 f4259b56033c2f3cd7584def117992e4 ""
@@ -15,12 +15,12 @@
   "../Mostri/UccelloStigeo.png" 1706225489 284854 4e0ee6b2237afb511ff855a4c4ea8372 ""
   "../Mostri/Zombi.png" 1706225009 299533 800721efe8d5ba49e08aac0b1a5c62d7 ""
   "../PNG/Sildar_Hallwinter.png" 1703114934 101908 edb8bfd61cf6f89b906734b969c69de0 ""
-  "Gruppo_A.aux" 1715542206 13582 a1eaca9008a7a47e624feac41e90d5ec "pdflatex"
-  "Gruppo_A.out" 1715542206 16195 65672989bac2a846ccb8b7ff064c3129 "pdflatex"
-  "Gruppo_A.tex" 1715542181 128291 b4166516dda94c3c341c9162cb8393b6 ""
-  "Gruppo_A.toc" 1715542206 9360 600b4f4795019d8478c805c07ea1463c "pdflatex"
+  "Gruppo_A.aux" 1720289272 15217 f08eef3dd135865c42a3d4d70b919e79 "pdflatex"
+  "Gruppo_A.out" 1720289272 17926 d9df3df0f4eac7304230898034cdc137 "pdflatex"
+  "Gruppo_A.tex" 1720289264 129432 2634d075d1f01905c32ccc2110ad9a2e ""
+  "Gruppo_A.toc" 1720289272 10503 21688d177a82a6a6560c4bdbf214052c "pdflatex"
   "c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1711635089 11524 8168045aed71d33b3d113aeee6370d13 ""
-  "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" 1715542181 128291 b4166516dda94c3c341c9162cb8393b6 ""
+  "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" 1720289264 129432 2634d075d1f01905c32ccc2110ad9a2e ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1710437180 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1710437140 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1710437140 1324 c910af8c371558dc20f2d7822f66fe64 ""
