@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1720979382.53797 "d:/DND/Trame_DND/FileLatex/Gruppo_B.tex" "Gruppo_B.pdf" "Gruppo_B" 1720979385.98493 0
+["pdflatex"] 1722703277.14662 "d:/DND/Trame_DND/FileLatex/Gruppo_B.tex" "Gruppo_B.pdf" "Gruppo_B" 1722703288.8445 0
   "../Mostri/Bandito.png" 1712932253 456672 fb748f430e125eb5b8f8bddb69c5efd9 ""
   "../Mostri/Bullywug.PNG" 1705007269 628383 4e107495c8897edf35197677bbdd393b ""
   "../Mostri/Cavaliere.png" 1720365381 345911 61498328cac4f3d5e2b80a9aa7aa5cdd ""
@@ -18,12 +18,12 @@
   "../Mostri/mago.png" 1703529352 59530 c7d5b0eb12f16f5b3cd05896babe1e1a ""
   "../PNG/Duran.png" 1714773468 481590 8361936f20b3b4e43baf1cc1e4913d8c ""
   "../PNG/Reaner_Nevember_Spadaccino.png" 1714847366 483095 4691b70a9a758e4c806f06b9ee61ca4e ""
-  "Gruppo_B.aux" 1720979385 12239 b10845ffe59b37ea7f29544c7a54aafb "pdflatex"
-  "Gruppo_B.out" 1720979385 14656 2c9d1f75ece58c507105e671d97e447c "pdflatex"
-  "Gruppo_B.tex" 1720979378 81842 247ab33b6b5021abdae49dc375839f8e ""
-  "Gruppo_B.toc" 1720979385 8468 7339ade6dda19cecdf25d9a45310d1bf "pdflatex"
+  "Gruppo_B.aux" 1722703288 9498 1728c6e59bd1b21704ba321bde3b159f "pdflatex"
+  "Gruppo_B.out" 1722703288 11104 4117f93eff5f4538b885a061a979cb6b "pdflatex"
+  "Gruppo_B.tex" 1722703261 64822 b866a876f13b029a49f494e4e0faddfe ""
+  "Gruppo_B.toc" 1722703288 6506 70a9f55beae2f4a26dbcc05966df3f1c "pdflatex"
   "c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1711635089 11524 8168045aed71d33b3d113aeee6370d13 ""
-  "d:/DND/Trame_DND/FileLatex/Gruppo_B.tex" 1720979378 81842 247ab33b6b5021abdae49dc375839f8e ""
+  "d:/DND/Trame_DND/FileLatex/Gruppo_B.tex" 1722703261 64822 b866a876f13b029a49f494e4e0faddfe ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1710437180 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1710437140 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1710437140 1324 c910af8c371558dc20f2d7822f66fe64 ""
