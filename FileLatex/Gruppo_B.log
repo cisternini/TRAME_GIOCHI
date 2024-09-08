@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  3 AUG 2024 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  13 AUG 2024 20:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -462,12 +462,12 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [12]
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
+Underfull \hbox (badness 10000) in paragraph at lines 505--507
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--515
+Underfull \hbox (badness 10000) in paragraph at lines 526--532
 
  []
 
@@ -476,34 +476,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 509--515
 [14]
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 582--598
+Underfull \hbox (badness 10000) in paragraph at lines 616--632
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--610
+Underfull \hbox (badness 10000) in paragraph at lines 637--644
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--624
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 654--672
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 685--690
+Underfull \hbox (badness 10000) in paragraph at lines 645--658
 
  []
 
 
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 712--720
+Underfull \hbox (badness 10000) in paragraph at lines 688--706
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--724
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--754
 
  []
 
@@ -526,7 +526,7 @@ Here is how much of TeX's memory you used:
  32802 multiletter control sequences out of 15000+600000
  563306 words of font info for 53 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,12n,79p,1178b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1178b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{urstul} has been referenced but does not exist, replaced by a fixed one
 
@@ -543,10 +543,10 @@ pdfTeX warning (dest): name{krent} has been referenced but does not exist, repla
 pdfTeX warning (dest): name{banditi} has been referenced but does not exist, replaced by a fixed one
 
  <c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Gruppo_B.pdf (18 pages, 6621889 bytes).
+Output written on Gruppo_B.pdf (18 pages, 6621544 bytes).
 PDF statistics:
- 586 PDF objects out of 1000 (max. 8388607)
- 510 compressed objects within 6 object streams
+ 585 PDF objects out of 1000 (max. 8388607)
+ 509 compressed objects within 6 object streams
  124 named destinations out of 1000 (max. 500000)
  643 words of extra memory for PDF output out of 10000 (max. 10000000)
 

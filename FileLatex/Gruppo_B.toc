@@ -57,12 +57,12 @@
 \contentsline {paragraph}{\numberline {1.5.4.5}Trovare Floon}{14}{paragraph.1.5.4.5}%
 \contentsline {subparagraph}{\numberline {1.5.4.5.1}Strade insanguinate}{14}{subparagraph.1.5.4.5.1}%
 \contentsline {subparagraph}{\numberline {1.5.4.5.2}PERLUSTRARE IL QUARTIERE DEL PORTO}{14}{subparagraph.1.5.4.5.2}%
-\contentsline {subparagraph}{\numberline {1.5.4.5.3}L NEGOZIO DEL VECCHIO XOBLOB}{14}{subparagraph.1.5.4.5.3}%
+\contentsline {subparagraph}{\numberline {1.5.4.5.3}L NEGOZIO DEL VECCHIO XOBLOB}{15}{subparagraph.1.5.4.5.3}%
 \contentsline {subparagraph}{\numberline {1.5.4.5.4}L DRAGO INFILZATO}{15}{subparagraph.1.5.4.5.4}%
-\contentsline {subparagraph}{\numberline {1.5.4.5.5}STRADINA DELLE CANDELE}{15}{subparagraph.1.5.4.5.5}%
-\contentsline {paragraph}{\numberline {1.5.4.6}Il nascondiglio degli Zhentarim}{15}{paragraph.1.5.4.6}%
+\contentsline {subparagraph}{\numberline {1.5.4.5.5}STRADINA DELLE CANDELE}{16}{subparagraph.1.5.4.5.5}%
+\contentsline {paragraph}{\numberline {1.5.4.6}Il nascondiglio degli Zhentarim}{16}{paragraph.1.5.4.6}%
 \contentsline {subparagraph}{\numberline {1.5.4.6.1}Z1. CAMERA PRINCIPALE}{16}{subparagraph.1.5.4.6.1}%
-\contentsline {subparagraph}{\numberline {1.5.4.6.2}Z2. RIPOSTIGLIO}{16}{subparagraph.1.5.4.6.2}%
+\contentsline {subparagraph}{\numberline {1.5.4.6.2}Z2. RIPOSTIGLIO}{17}{subparagraph.1.5.4.6.2}%
 \contentsline {subparagraph}{\numberline {1.5.4.6.3}Z3. STANZA SEGRETA}{17}{subparagraph.1.5.4.6.3}%
 \contentsline {subparagraph}{\numberline {1.5.4.6.4}Z4. BALCONE}{17}{subparagraph.1.5.4.6.4}%
 \contentsline {subparagraph}{\numberline {1.5.4.6.5}Z5. UFFICI}{17}{subparagraph.1.5.4.6.5}%
