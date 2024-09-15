@@ -10,60 +10,51 @@
 \contentsline {subsubsection}{\numberline {1.3.1}Palude}{8}{subsubsection.1.3.1}%
 \contentsline {subsubsection}{\numberline {1.3.2}Villaggio}{8}{subsubsection.1.3.2}%
 \contentsline {subparagraph}{\numberline {1.3.2.0.1}Comportamento}{8}{subparagraph.1.3.2.0.1}%
-\contentsline {subsection}{\numberline {1.4}Cammino di Resurrezione}{8}{subsection.1.4}%
-\contentsline {paragraph}{\numberline {1.4.0.1}Piano di Nadara}{8}{paragraph.1.4.0.1}%
-\contentsline {subparagraph}{\numberline {1.4.0.1.1}Venti di follia}{8}{subparagraph.1.4.0.1.1}%
-\contentsline {subsubsection}{\numberline {1.4.1}Arrivo a Waterdeep}{9}{subsubsection.1.4.1}%
-\contentsline {paragraph}{\numberline {1.4.1.1}Fonte della Conoscenza }{9}{paragraph.1.4.1.1}%
-\contentsline {subparagraph}{\numberline {1.4.1.1.1}Descrizione}{9}{subparagraph.1.4.1.1.1}%
-\contentsline {subparagraph}{\numberline {1.4.1.1.2}Chiedere in giro}{9}{subparagraph.1.4.1.1.2}%
-\contentsline {paragraph}{\numberline {1.4.1.2}Il Dio della Rinascita : Guglie del mattino}{9}{paragraph.1.4.1.2}%
-\contentsline {subparagraph}{\numberline {1.4.1.2.1}Incontri}{9}{subparagraph.1.4.1.2.1}%
-\contentsline {subsection}{\numberline {1.5}Waterdeep: il furto dei dragoni}{9}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}Volti Familiari}{9}{subsubsection.1.5.1}%
-\contentsline {paragraph}{\numberline {1.5.1.1}DURNAN}{9}{paragraph.1.5.1.1}%
-\contentsline {paragraph}{\numberline {1.5.1.2}“BONNIE”}{9}{paragraph.1.5.1.2}%
-\contentsline {paragraph}{\numberline {1.5.1.3}MATTRIM “Tre CorpE” MEREG}{10}{paragraph.1.5.1.3}%
-\contentsline {paragraph}{\numberline {1.5.1.4}JALESTER SILVERMANE}{10}{paragraph.1.5.1.4}%
-\contentsline {paragraph}{\numberline {1.5.1.5}MELOON WARDRAGON}{10}{paragraph.1.5.1.5}%
-\contentsline {paragraph}{\numberline {1.5.1.6}OBAYA UDAY}{10}{paragraph.1.5.1.6}%
-\contentsline {paragraph}{\numberline {1.5.1.7}YAGRA STONEFIST}{10}{paragraph.1.5.1.7}%
-\contentsline {subsubsection}{\numberline {1.5.2}Setting dell'avventura}{10}{subsubsection.1.5.2}%
-\contentsline {subparagraph}{\numberline {1.5.2.0.1}}{10}{subparagraph.1.5.2.0.1}%
-\contentsline {subparagraph}{\numberline {1.5.2.0.2}Nemico principale: }{10}{subparagraph.1.5.2.0.2}%
-\contentsline {subparagraph}{\numberline {1.5.2.0.3}Interdizione Draconica di Ahghairon}{10}{subparagraph.1.5.2.0.3}%
-\contentsline {subparagraph}{\numberline {1.5.2.0.4}Codice legale di Waterdeep}{11}{subparagraph.1.5.2.0.4}%
-\contentsline {subsubsection}{\numberline {1.5.3}Il Viaggio}{11}{subsubsection.1.5.3}%
-\contentsline {paragraph}{\numberline {1.5.3.1}Mare dei Morti}{11}{paragraph.1.5.3.1}%
-\contentsline {paragraph}{\numberline {1.5.3.2} Descrizione }{11}{paragraph.1.5.3.2}%
-\contentsline {paragraph}{\numberline {1.5.3.3}Incontri}{11}{paragraph.1.5.3.3}%
-\contentsline {subparagraph}{\numberline {1.5.3.3.1}Mephit del Fango}{11}{subparagraph.1.5.3.3.1}%
-\contentsline {subparagraph}{\numberline {1.5.3.3.2}Coccodrillo}{11}{subparagraph.1.5.3.3.2}%
-\contentsline {subparagraph}{\numberline {1.5.3.3.3}Ragno Gigante}{11}{subparagraph.1.5.3.3.3}%
-\contentsline {subparagraph}{\numberline {1.5.3.3.4}Rudere e Vecchietto-Cannibale}{11}{subparagraph.1.5.3.3.4}%
-\contentsline {subparagraph}{\numberline {1.5.3.3.5}Monti della Spada: Valle}{12}{subparagraph.1.5.3.3.5}%
-\contentsline {subsubsection}{\numberline {1.5.4}Arrivo a Waterdeep : Capitolo 1}{12}{subsubsection.1.5.4}%
-\contentsline {paragraph}{\numberline {1.5.4.1}Casino in città:}{12}{paragraph.1.5.4.1}%
-\contentsline {paragraph}{\numberline {1.5.4.2}Rissa in Teverna: Portale Spalancato}{12}{paragraph.1.5.4.2}%
-\contentsline {subparagraph}{\numberline {1.5.4.2.1}Descrizione}{12}{subparagraph.1.5.4.2.1}%
-\contentsline {subparagraph}{\numberline {1.5.4.2.2}Rissa}{12}{subparagraph.1.5.4.2.2}%
-\contentsline {paragraph}{\numberline {1.5.4.3}UN TROLL E I SUOI AMICI}{12}{paragraph.1.5.4.3}%
-\contentsline {subparagraph}{\numberline {1.5.4.3.1}Descrizione}{12}{subparagraph.1.5.4.3.1}%
-\contentsline {subparagraph}{\numberline {1.5.4.3.2}Cosa succede}{13}{subparagraph.1.5.4.3.2}%
-\contentsline {paragraph}{\numberline {1.5.4.4}Incontro con Volo}{13}{paragraph.1.5.4.4}%
-\contentsline {subparagraph}{\numberline {1.5.4.4.1}Descrizione}{13}{subparagraph.1.5.4.4.1}%
-\contentsline {subparagraph}{\numberline {1.5.4.4.2}Cosa succede}{13}{subparagraph.1.5.4.4.2}%
-\contentsline {subparagraph}{\numberline {1.5.4.4.3}Cosa E Successo QUELLA NOTTE?}{13}{subparagraph.1.5.4.4.3}%
-\contentsline {paragraph}{\numberline {1.5.4.5}Trovare Floon}{14}{paragraph.1.5.4.5}%
-\contentsline {subparagraph}{\numberline {1.5.4.5.1}Strade insanguinate}{14}{subparagraph.1.5.4.5.1}%
-\contentsline {subparagraph}{\numberline {1.5.4.5.2}PERLUSTRARE IL QUARTIERE DEL PORTO}{14}{subparagraph.1.5.4.5.2}%
-\contentsline {subparagraph}{\numberline {1.5.4.5.3}L NEGOZIO DEL VECCHIO XOBLOB}{15}{subparagraph.1.5.4.5.3}%
-\contentsline {subparagraph}{\numberline {1.5.4.5.4}L DRAGO INFILZATO}{15}{subparagraph.1.5.4.5.4}%
-\contentsline {subparagraph}{\numberline {1.5.4.5.5}STRADINA DELLE CANDELE}{16}{subparagraph.1.5.4.5.5}%
-\contentsline {paragraph}{\numberline {1.5.4.6}Il nascondiglio degli Zhentarim}{16}{paragraph.1.5.4.6}%
-\contentsline {subparagraph}{\numberline {1.5.4.6.1}Z1. CAMERA PRINCIPALE}{16}{subparagraph.1.5.4.6.1}%
-\contentsline {subparagraph}{\numberline {1.5.4.6.2}Z2. RIPOSTIGLIO}{17}{subparagraph.1.5.4.6.2}%
-\contentsline {subparagraph}{\numberline {1.5.4.6.3}Z3. STANZA SEGRETA}{17}{subparagraph.1.5.4.6.3}%
-\contentsline {subparagraph}{\numberline {1.5.4.6.4}Z4. BALCONE}{17}{subparagraph.1.5.4.6.4}%
-\contentsline {subparagraph}{\numberline {1.5.4.6.5}Z5. UFFICI}{17}{subparagraph.1.5.4.6.5}%
-\contentsline {paragraph}{\numberline {1.5.4.7}ARRIVA LA VIGILANZA}{17}{paragraph.1.5.4.7}%
+\contentsline {subsection}{\numberline {1.4}Waterdeep: il furto dei dragoni}{8}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Volti Familiari}{8}{subsubsection.1.4.1}%
+\contentsline {paragraph}{\numberline {1.4.1.1}DURNAN}{8}{paragraph.1.4.1.1}%
+\contentsline {paragraph}{\numberline {1.4.1.2}“BONNIE”}{8}{paragraph.1.4.1.2}%
+\contentsline {paragraph}{\numberline {1.4.1.3}MATTRIM “Tre CorpE” MEREG}{9}{paragraph.1.4.1.3}%
+\contentsline {paragraph}{\numberline {1.4.1.4}JALESTER SILVERMANE}{9}{paragraph.1.4.1.4}%
+\contentsline {paragraph}{\numberline {1.4.1.5}MELOON WARDRAGON}{9}{paragraph.1.4.1.5}%
+\contentsline {paragraph}{\numberline {1.4.1.6}OBAYA UDAY}{9}{paragraph.1.4.1.6}%
+\contentsline {paragraph}{\numberline {1.4.1.7}YAGRA STONEFIST}{9}{paragraph.1.4.1.7}%
+\contentsline {subsubsection}{\numberline {1.4.2}Setting dell'avventura}{9}{subsubsection.1.4.2}%
+\contentsline {subparagraph}{\numberline {1.4.2.0.1}}{9}{subparagraph.1.4.2.0.1}%
+\contentsline {subparagraph}{\numberline {1.4.2.0.2}Nemico principale: }{9}{subparagraph.1.4.2.0.2}%
+\contentsline {subparagraph}{\numberline {1.4.2.0.3}Interdizione Draconica di Ahghairon}{9}{subparagraph.1.4.2.0.3}%
+\contentsline {subparagraph}{\numberline {1.4.2.0.4}Codice legale di Waterdeep}{10}{subparagraph.1.4.2.0.4}%
+\contentsline {subsubsection}{\numberline {1.4.3}Il Viaggio}{10}{subsubsection.1.4.3}%
+\contentsline {paragraph}{\numberline {1.4.3.1}Mare dei Morti}{10}{paragraph.1.4.3.1}%
+\contentsline {paragraph}{\numberline {1.4.3.2} Descrizione }{10}{paragraph.1.4.3.2}%
+\contentsline {paragraph}{\numberline {1.4.3.3}Incontri}{10}{paragraph.1.4.3.3}%
+\contentsline {subparagraph}{\numberline {1.4.3.3.1}Mephit del Fango}{10}{subparagraph.1.4.3.3.1}%
+\contentsline {subparagraph}{\numberline {1.4.3.3.2}Coccodrillo}{10}{subparagraph.1.4.3.3.2}%
+\contentsline {subparagraph}{\numberline {1.4.3.3.3}Ragno Gigante}{10}{subparagraph.1.4.3.3.3}%
+\contentsline {subparagraph}{\numberline {1.4.3.3.4}Rudere e Vecchietto-Cannibale}{10}{subparagraph.1.4.3.3.4}%
+\contentsline {subparagraph}{\numberline {1.4.3.3.5}Monti della Spada: Valle}{11}{subparagraph.1.4.3.3.5}%
+\contentsline {subsubsection}{\numberline {1.4.4}Arrivo a Waterdeep : Capitolo 1}{11}{subsubsection.1.4.4}%
+\contentsline {paragraph}{\numberline {1.4.4.1}Casino in città:}{11}{paragraph.1.4.4.1}%
+\contentsline {paragraph}{\numberline {1.4.4.2}Rissa in Teverna: Portale Spalancato}{11}{paragraph.1.4.4.2}%
+\contentsline {subparagraph}{\numberline {1.4.4.2.1}Descrizione}{11}{subparagraph.1.4.4.2.1}%
+\contentsline {subparagraph}{\numberline {1.4.4.2.2}Rissa}{11}{subparagraph.1.4.4.2.2}%
+\contentsline {paragraph}{\numberline {1.4.4.3}UN TROLL E I SUOI AMICI}{11}{paragraph.1.4.4.3}%
+\contentsline {subparagraph}{\numberline {1.4.4.3.1}Descrizione}{11}{subparagraph.1.4.4.3.1}%
+\contentsline {subparagraph}{\numberline {1.4.4.3.2}Cosa succede}{12}{subparagraph.1.4.4.3.2}%
+\contentsline {paragraph}{\numberline {1.4.4.4}Incontro con Volo}{12}{paragraph.1.4.4.4}%
+\contentsline {subparagraph}{\numberline {1.4.4.4.1}Descrizione}{12}{subparagraph.1.4.4.4.1}%
+\contentsline {subparagraph}{\numberline {1.4.4.4.2}Cosa succede}{12}{subparagraph.1.4.4.4.2}%
+\contentsline {subparagraph}{\numberline {1.4.4.4.3}Cosa E Successo QUELLA NOTTE?}{13}{subparagraph.1.4.4.4.3}%
+\contentsline {paragraph}{\numberline {1.4.4.5}Trovare Floon}{13}{paragraph.1.4.4.5}%
+\contentsline {subparagraph}{\numberline {1.4.4.5.1}Strade insanguinate}{13}{subparagraph.1.4.4.5.1}%
+\contentsline {subparagraph}{\numberline {1.4.4.5.2}PERLUSTRARE IL QUARTIERE DEL PORTO}{14}{subparagraph.1.4.4.5.2}%
+\contentsline {subparagraph}{\numberline {1.4.4.5.3}L NEGOZIO DEL VECCHIO XOBLOB}{14}{subparagraph.1.4.4.5.3}%
+\contentsline {subparagraph}{\numberline {1.4.4.5.4}L DRAGO INFILZATO}{15}{subparagraph.1.4.4.5.4}%
+\contentsline {subparagraph}{\numberline {1.4.4.5.5}STRADINA DELLE CANDELE}{15}{subparagraph.1.4.4.5.5}%
+\contentsline {paragraph}{\numberline {1.4.4.6}Il nascondiglio degli Zhentarim}{15}{paragraph.1.4.4.6}%
+\contentsline {subparagraph}{\numberline {1.4.4.6.1}Z1. CAMERA PRINCIPALE}{16}{subparagraph.1.4.4.6.1}%
+\contentsline {subparagraph}{\numberline {1.4.4.6.2}Z2. RIPOSTIGLIO}{16}{subparagraph.1.4.4.6.2}%
+\contentsline {subparagraph}{\numberline {1.4.4.6.3}Z3. STANZA SEGRETA}{17}{subparagraph.1.4.4.6.3}%
+\contentsline {subparagraph}{\numberline {1.4.4.6.4}Z4. BALCONE}{17}{subparagraph.1.4.4.6.4}%
+\contentsline {subparagraph}{\numberline {1.4.4.6.5}Z5. UFFICI}{17}{subparagraph.1.4.4.6.5}%
+\contentsline {paragraph}{\numberline {1.4.4.7}ARRIVA LA VIGILANZA}{18}{paragraph.1.4.4.7}%

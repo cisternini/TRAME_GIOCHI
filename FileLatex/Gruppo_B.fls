@@ -129,8 +129,8 @@ INPUT ./Gruppo_B.toc
 INPUT ./Gruppo_B.toc
 INPUT Gruppo_B.toc
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT Gruppo_B.toc
+INPUT d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
