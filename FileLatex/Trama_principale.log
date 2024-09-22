@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  29 JUL 2024 23:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  22 SEP 2024 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,17 +453,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [17]
 
 [18]
-Overfull \hbox (5.18271pt too wide) in paragraph at lines 391--397
-\OT1/cmr/bx/n/10 Back-ground: \OT1/cmr/m/n/10 Mae-stro dell'Inganno - \OT1/cmr/bx/n/10 Mo-ti-vazione: \OT1/cmr/m/n/10 Am-bisce al con-trollo to-tale dell'Organizzazione
- []
-
-
 
 [19]
 
 [20]
-Overfull \hbox (2.24608pt too wide) in paragraph at lines 504--505
-[]\OT1/cmr/m/n/10 Compito: Re-spon-s-abile dell'applicazione della forza bruta e delle es-plo-sioni per spaventare
+Overfull \hbox (5.18271pt too wide) in paragraph at lines 440--446
+\OT1/cmr/bx/n/10 Back-ground: \OT1/cmr/m/n/10 Mae-stro dell'Inganno - \OT1/cmr/bx/n/10 Mo-ti-vazione: \OT1/cmr/m/n/10 Am-bisce al con-trollo to-tale dell'Organizzazione
  []
 
 
@@ -471,8 +466,8 @@ Overfull \hbox (2.24608pt too wide) in paragraph at lines 504--505
 [21]
 
 [22]
-Overfull \hbox (36.68964pt too wide) in paragraph at lines 602--603
-[]\OT1/cmr/m/n/10 Informazioni: 1d4 di giorni, qualit^^Ra: 4 ten-ta-tivi 1d20 (CD data dalla seg-retezza dell'informazione),
+Overfull \hbox (2.24608pt too wide) in paragraph at lines 553--554
+[]\OT1/cmr/m/n/10 Compito: Re-spon-s-abile dell'applicazione della forza bruta e delle es-plo-sioni per spaventare
  []
 
 
@@ -480,10 +475,19 @@ Overfull \hbox (36.68964pt too wide) in paragraph at lines 602--603
 [23]
 
 [24]
+Overfull \hbox (36.68964pt too wide) in paragraph at lines 651--652
+[]\OT1/cmr/m/n/10 Informazioni: 1d4 di giorni, qualit^^Ra: 4 ten-ta-tivi 1d20 (CD data dalla seg-retezza dell'informazione),
+ []
+
+
 
 [25]
 
 [26]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 
 [27]
 
@@ -498,6 +502,12 @@ Overfull \hbox (36.68964pt too wide) in paragraph at lines 602--603
 [32]
 
 [33]
+
+[34]
+
+[35]
+
+[36]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -530,102 +540,46 @@ Overfull \hbox (36.68964pt too wide) in paragraph at lines 602--603
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../Mappe/AdattataNenerWuter.jpg, id=798, 3199.45313pt x 2472.23625pt>
+<../Mappe/AdattataNenerWuter.jpg, id=832, 3199.45313pt x 2472.23625pt>
 File: ../Mappe/AdattataNenerWuter.jpg Graphic file (type jpg)
 <use ../Mappe/AdattataNenerWuter.jpg>
-Package pdftex.def Info: ../Mappe/AdattataNenerWuter.jpg  used on input line 763.
+Package pdftex.def Info: ../Mappe/AdattataNenerWuter.jpg  used on input line 812.
 (pdftex.def)             Requested size: 799.86133pt x 618.05756pt.
 
-Overfull \hbox (200.56633pt too wide) in paragraph at lines 763--764
+Overfull \hbox (200.56633pt too wide) in paragraph at lines 812--813
 [][] 
  []
 
 
 
-[34
+[37
 
 
  <../Mappe/AdattataNenerWuter.jpg>]
 
-[35
+[38
 
 ]
-Overfull \hbox (17.94064pt too wide) in paragraph at lines 816--818
+Overfull \hbox (17.94064pt too wide) in paragraph at lines 865--867
 \OT1/cmr/m/n/10 Tra questi, Maskado's si oc-cu-pava in par-ti-co-lare di mappe, reg-istri e in-for-mazioni rel-a-tive all'esplorazione
  []
 
 
 
-[36]
+[39]
 
-[37]
-<../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg, id=826, 484.81125pt x 508.90125pt>
+[40]
+<../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg, id=859, 484.81125pt x 508.90125pt>
 File: ../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg Graphic file (type jpg)
 <use ../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg>
-Package pdftex.def Info: ../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg  used on input line 867.
+Package pdftex.def Info: ../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg  used on input line 916.
 (pdftex.def)             Requested size: 426.81276pt x 341.44351pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 875--875
-
- []
-
-
-
-[38]
-
-[39 <../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 876--881
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 876--881
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 876--881
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 896--898
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 896--898
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 899--904
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 899--904
-
- []
-
-
-
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 917--918
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 917--918
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 919--923
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
 
  []
 
@@ -633,58 +587,108 @@ Underfull \hbox (badness 10000) in paragraph at lines 919--923
 
 [41]
 
-[42]
+[42 <../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 925--930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--947
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--947
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--953
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--953
+
+ []
+
+
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1041--1043
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 968--972
 
  []
 
 
 
 [44]
-Overfull \hbox (0.24611pt too wide) in paragraph at lines 1055--1059
+
+[45]
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1092
+
+ []
+
+
+
+[47]
+Overfull \hbox (0.24611pt too wide) in paragraph at lines 1104--1108
 \OT1/cmr/m/n/10 Rebeth Laereeryn mezzelfo con un in-can-tes-imo pu^^Ro im-pedire che tutti i suoni prove-ni-enti dall'interno
  []
 
 
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1102--1104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1109--1110
-
- []
-
-
-
-[46]
-
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1191--1193
-
- []
-
-
-
 [48]
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
+
+ []
+
+
 
 [49]
 
 [50]
+Underfull \hbox (badness 10000) in paragraph at lines 1235--1236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1242
+
+ []
+
+
 
 [51]
 
@@ -697,103 +701,103 @@ Underfull \hbox (badness 10000) in paragraph at lines 1191--1193
 [55]
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1489
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1492--1494
-
- []
-
-
 
 [57]
 
 [58]
-Overfull \hbox (5.98875pt too wide) in paragraph at lines 1566--1569
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1541--1543
+
+ []
+
+
+
+[60]
+
+[61]
+Overfull \hbox (5.98875pt too wide) in paragraph at lines 1615--1618
  \OT1/cmr/bx/n/10 7.1.2.11 Il ri-poso del pel-le-grino[] Tipo\OT1/cmr/m/n/10 : Lo-canda \OT1/cmr/bx/n/10 Pi-ani\OT1/cmr/m/n/10 : 3 \OT1/cmr/bx/n/10 Pro-pri-etario\OT1/cmr/m/n/10 : []Bal-aghast Brightlin-
  []
 
 
 
-[59]
-
-[60]
-
-[61]
-
 [62]
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 1759--1762
-
- []
-
-
 
 [64]
-Underfull \hbox (badness 10000) in paragraph at lines 1775--1782
-
- []
-
-
 
 [65]
 
 [66]
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1811
+
+ []
+
+
 
 [67]
-Underfull \hbox (badness 10000) in paragraph at lines 1913--1914
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1831
 
  []
 
 
 
 [68]
-Underfull \hbox (badness 10000) in paragraph at lines 1940--1941
-
- []
-
-
 
 [69]
 
 [70]
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
+
+ []
+
+
 
 [71]
+Underfull \hbox (badness 10000) in paragraph at lines 1989--1990
+
+ []
+
+
 
 [72]
-Underfull \hbox (badness 10000) in paragraph at lines 2094--2096
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2110--2112
-
- []
-
-
 
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 2139--2140
+
+[74]
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 2143--2145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2159--2161
 
  []
 
 
 
-[74]
-Overfull \hbox (9.49016pt too wide) in paragraph at lines 2168--2169
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+
+ []
+
+
+
+[77]
+Overfull \hbox (9.49016pt too wide) in paragraph at lines 2217--2218
  []\OT1/cmr/bx/n/10 Descrizione[] \OT1/cmr/m/n/10 Il Rifu-gio Dan-zante era un pic-colo boschetto di al-beri, pi-antati e cresciuti all'interno
  []
 
 
-
-[75]
-
-[76]
-
-[77]
 
 [78]
 
@@ -803,19 +807,25 @@ Overfull \hbox (9.49016pt too wide) in paragraph at lines 2168--2169
 
 [81]
 
-[82] (./Trama_principale.aux)
+[82]
+
+[83]
+
+[84]
+
+[85] (./Trama_principale.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `Trama_principale.out' has not changed.
-(rerunfilecheck)             Checksum: D849DD9007DE5A24F2474FC7CB39DD70;17943.
+(rerunfilecheck)             Checksum: A0B94E6A52D4EEAA6C52084C847AD6E2;18159.
  ) 
 Here is how much of TeX's memory you used:
- 11303 strings out of 475500
- 177896 string characters out of 5776842
+ 11321 strings out of 475500
+ 178141 string characters out of 5776842
  1949908 words of memory out of 5000000
- 33287 multiletter control sequences out of 15000+600000
+ 33289 multiletter control sequences out of 15000+600000
  563665 words of font info for 54 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  75i,11n,79p,4422b,634s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -832,10 +842,10 @@ pdfTeX warning (dest): name{et} has been referenced but does not exist, replaced
 pdfTeX warning (dest): name{leviatano} has been referenced but does not exist, replaced by a fixed one
 
  <c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Trama_principale.pdf (82 pages, 8548463 bytes).
+Output written on Trama_principale.pdf (85 pages, 8557387 bytes).
 PDF statistics:
- 1428 PDF objects out of 1440 (max. 8388607)
- 1309 compressed objects within 14 object streams
- 521 named destinations out of 1000 (max. 500000)
- 891 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1465 PDF objects out of 1728 (max. 8388607)
+ 1343 compressed objects within 14 object streams
+ 537 named destinations out of 1000 (max. 500000)
+ 907 words of extra memory for PDF output out of 10000 (max. 10000000)
 

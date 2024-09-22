@@ -1,20 +1,20 @@
 # Fdb version 4
-["makeindex Trama_principale.idx"] 1718836691.58217 "Trama_principale.idx" "Trama_principale.ind" "Trama_principale" 1722289866.24409 0
-  "Trama_principale.idx" 1722289860 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex Trama_principale.idx"] 1718836691.58217 "Trama_principale.idx" "Trama_principale.ind" "Trama_principale" 1727014309.56433 0
+  "Trama_principale.idx" 1727014304 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "Trama_principale.ilg"
   "Trama_principale.ind"
   (rewritten before read)
-["pdflatex"] 1722289857.21205 "d:/DND/Trame_DND/FileLatex/Trama_principale.tex" "Trama_principale.pdf" "Trama_principale" 1722289866.24598 0
+["pdflatex"] 1727014302.86224 "d:/DND/Trame_DND/FileLatex/Trama_principale.tex" "Trama_principale.pdf" "Trama_principale" 1727014309.56639 0
   "../Mappe/AdattataNenerWuter.jpg" 1703273488 8102608 38cb7dc33e765128503ec1ec31d0c668 ""
   "../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg" 1703275504 85379 0cda58af50901ccc8aeb1b140dfcc676 ""
-  "Trama_principale.aux" 1722289864 42152 76a75ce3038418ee2d49c44c9e6b2cd6 "pdflatex"
+  "Trama_principale.aux" 1727014308 43009 cbccf21aed842aaf734b1196bb3da282 "pdflatex"
   "Trama_principale.ind" 1718836691 0 d41d8cd98f00b204e9800998ecf8427e "makeindex Trama_principale.idx"
-  "Trama_principale.out" 1722289865 17943 d849dd9007de5a24f2474fc7cb39dd70 "pdflatex"
-  "Trama_principale.tex" 1722289854 244454 e5712f83a33b24b7c1c02de2aaf86ca3 ""
-  "Trama_principale.toc" 1722289865 27223 d151856099c89848d4b25bdf0cd12541 "pdflatex"
+  "Trama_principale.out" 1727014308 18159 a0b94e6a52d4eeaa6c52084c847ad6e2 "pdflatex"
+  "Trama_principale.tex" 1727014292 253140 20188d6975fe4ecea93e934ad2c829e4 ""
+  "Trama_principale.toc" 1727014308 27793 a83bf85fa8ad67b0e86d18a5bfb77542 "pdflatex"
   "c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1711635089 11524 8168045aed71d33b3d113aeee6370d13 ""
-  "d:/DND/Trame_DND/FileLatex/Trama_principale.tex" 1722289854 244454 e5712f83a33b24b7c1c02de2aaf86ca3 ""
+  "d:/DND/Trame_DND/FileLatex/Trama_principale.tex" 1727014292 253140 20188d6975fe4ecea93e934ad2c829e4 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1710437180 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1710437140 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1710437140 1324 c910af8c371558dc20f2d7822f66fe64 ""
