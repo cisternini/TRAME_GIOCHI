@@ -1,109 +1,128 @@
-\contentsline {section}{\numberline {1}Nemici}{3}{section.1}%
-\contentsline {section}{\numberline {2}PNG\_Compagni}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Kai Serenestep}{6}{subsection.2.1}%
-\contentsline {section}{\numberline {3}La miniera perduta di Phandelver (liv 1 - 5)}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Inizio}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Il nascondiglio dei Cragmaw}{6}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Postazione Vedetta}{7}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Canile}{7}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Passaggio Scosceso}{8}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}Passaggio Rialzato}{8}{subsubsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.5}Covo dei Goblin}{9}{subsubsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.6}Caverna delle Due Vasche}{10}{subsubsection.3.2.6}%
-\contentsline {subsubsection}{\numberline {3.2.7}Caverna di Klarg}{10}{subsubsection.3.2.7}%
-\contentsline {subsection}{\numberline {3.3}Phandalin}{11}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Descrizione Per Phandalin}{11}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}PNG\_PHANDALIN}{12}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Fabbro: Il Martellatore}{12}{subsubsection.3.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.4}Falegname: La sega umana}{12}{subsubsection.3.3.4}%
-\contentsline {subsubsection}{\numberline {3.3.5}Locanda Stonehill}{12}{subsubsection.3.3.5}%
-\contentsline {paragraph}{\numberline {3.3.5.1}Presentazione}{12}{paragraph.3.3.5.1}%
-\contentsline {paragraph}{\numberline {3.3.5.2}Descrizione}{12}{paragraph.3.3.5.2}%
-\contentsline {paragraph}{\numberline {3.3.5.3}Dicerie}{12}{paragraph.3.3.5.3}%
-\contentsline {subsubsection}{\numberline {3.3.6}PROVVISTE DI BARTHEN}{13}{subsubsection.3.3.6}%
-\contentsline {paragraph}{\numberline {3.3.6.1}Consegnare le Provviste}{13}{paragraph.3.3.6.1}%
-\contentsline {paragraph}{\numberline {3.3.6.2}Le Notizie di Barthen}{13}{paragraph.3.3.6.2}%
-\contentsline {subsubsection}{\numberline {3.3.7}Frutteto Edermath}{13}{subsubsection.3.3.7}%
-\contentsline {paragraph}{\numberline {3.3.7.1}Problemi al Vecchio Gufo}{14}{paragraph.3.3.7.1}%
-\contentsline {paragraph}{\numberline {3.3.7.2}Conseguenze: UNIRSI ALL'ORDINE DEL GUANTO D'ARME }{14}{paragraph.3.3.7.2}%
-\contentsline {subsubsection}{\numberline {3.3.8}Scudo del Leone}{14}{subsubsection.3.3.8}%
-\contentsline {paragraph}{\numberline {3.3.8.1}Descrizione}{14}{paragraph.3.3.8.1}%
-\contentsline {paragraph}{\numberline {3.3.8.2}Missione}{14}{paragraph.3.3.8.2}%
-\contentsline {paragraph}{\numberline {3.3.8.3}Merci Recuperate}{14}{paragraph.3.3.8.3}%
-\contentsline {subsubsection}{\numberline {3.3.9}Borsa dei minatori Di Phandalin}{14}{subsubsection.3.3.9}%
-\contentsline {paragraph}{\numberline {3.3.9.1}Missione: L’Offerta di Lavoro di Halia.}{15}{paragraph.3.3.9.1}%
-\contentsline {paragraph}{\numberline {3.3.9.2}UNIRSI AGLI ZHENTARIM}{15}{paragraph.3.3.9.2}%
-\contentsline {subsubsection}{\numberline {3.3.10}FATTORIA ALDERLEAF}{15}{subsubsection.3.3.10}%
-\contentsline {paragraph}{\numberline {3.3.10.1}La Storia di Carp.}{15}{paragraph.3.3.10.1}%
-\contentsline {paragraph}{\numberline {3.3.10.2}Missione: Reidoth il Druido.}{15}{paragraph.3.3.10.2}%
-\contentsline {subsubsection}{\numberline {3.3.11}SANTUARIO DELLA FORTUNA}{15}{subsubsection.3.3.11}%
-\contentsline {paragraph}{\numberline {3.3.11.1}Missione: Il Patto con la Banshee.}{15}{paragraph.3.3.11.1}%
-\contentsline {paragraph}{\numberline {3.3.11.2}Conseguenze: UNIRSI AGLI ARPISTI }{16}{paragraph.3.3.11.2}%
-\contentsline {subsubsection}{\numberline {3.3.12}IL GIGANTE ADDORMENTATO}{16}{subsubsection.3.3.12}%
-\contentsline {subsubsection}{\numberline {3.3.13}VILLA DEL BORGOMASTRO}{16}{subsubsection.3.3.13}%
-\contentsline {paragraph}{\numberline {3.3.13.1}Descrizione}{16}{paragraph.3.3.13.1}%
-\contentsline {paragraph}{\numberline {3.3.13.2}Indizi}{16}{paragraph.3.3.13.2}%
-\contentsline {paragraph}{\numberline {3.3.13.3}Missione: Problemi con gli Orchi.}{16}{paragraph.3.3.13.3}%
-\contentsline {subsubsection}{\numberline {3.3.14}MANIERO TRESENDAR}{17}{subsubsection.3.3.14}%
-\contentsline {subsubsection}{\numberline {3.3.15}MALVIVENTI DEI MARCHI ROSSI}{17}{subsubsection.3.3.15}%
-\contentsline {subsubsection}{\numberline {3.3.16}FACCIA A FACCIA}{17}{subsubsection.3.3.16}%
-\contentsline {paragraph}{\numberline {3.3.16.1}Sviluppi}{17}{paragraph.3.3.16.1}%
-\contentsline {paragraph}{\numberline {3.3.16.2}I Giocatori Hanno Bisogno DI INDICAZIONI?}{18}{paragraph.3.3.16.2}%
-\contentsline {paragraph}{\numberline {3.3.16.3}Cosa sanno i marchi rossi}{18}{paragraph.3.3.16.3}%
-\contentsline {subsubsection}{\numberline {3.3.17}IL NASCONDIGLIO DEI MARCHI ROSSI}{18}{subsubsection.3.3.17}%
-\contentsline {paragraph}{\numberline {3.3.17.1}Tratti Generali}{18}{paragraph.3.3.17.1}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.1}Cantina}{18}{subparagraph.3.3.17.1.1}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.2}Dormitorio}{20}{subparagraph.3.3.17.1.2}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.3}Corridoio con Trappola}{20}{subparagraph.3.3.17.1.3}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.4}Cripte Di Tresendar}{20}{subparagraph.3.3.17.1.4}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.5}Recinti Degli Schiavi}{20}{subparagraph.3.3.17.1.5}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.6}Armeria}{21}{subparagraph.3.3.17.1.6}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.7}Magazzino e Officina}{21}{subparagraph.3.3.17.1.7}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.8}Crepaccio}{21}{subparagraph.3.3.17.1.8}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.9}Dormitorio delle guardie}{23}{subparagraph.3.3.17.1.9}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.10}Sala Comune}{23}{subparagraph.3.3.17.1.10}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.11}Laboratorio del mago}{24}{subparagraph.3.3.17.1.11}%
-\contentsline {subparagraph}{\numberline {3.3.17.1.12}Alloggi di Bastone di vetro}{24}{subparagraph.3.3.17.1.12}%
-\contentsline {subsubsection}{\numberline {3.3.18}Pattuglia di Goblin}{25}{subsubsection.3.3.18}%
-\contentsline {paragraph}{\numberline {3.3.18.1}Pattuglia Nord}{25}{paragraph.3.3.18.1}%
-\contentsline {subparagraph}{\numberline {3.3.18.1.1}Nemici:}{25}{subparagraph.3.3.18.1.1}%
-\contentsline {subparagraph}{\numberline {3.3.18.1.2}Difficoltà Trovarli}{26}{subparagraph.3.3.18.1.2}%
-\contentsline {paragraph}{\numberline {3.3.18.2}Pattuglia Sud}{26}{paragraph.3.3.18.2}%
-\contentsline {subparagraph}{\numberline {3.3.18.2.1}Nemici:}{26}{subparagraph.3.3.18.2.1}%
-\contentsline {subparagraph}{\numberline {3.3.18.2.2}Difficoltà Trovarli}{26}{subparagraph.3.3.18.2.2}%
-\contentsline {paragraph}{\numberline {3.3.18.3}Pattuglia Ovest}{26}{paragraph.3.3.18.3}%
-\contentsline {subparagraph}{\numberline {3.3.18.3.1}Nemici:}{26}{subparagraph.3.3.18.3.1}%
-\contentsline {subparagraph}{\numberline {3.3.18.3.2}Difficoltà Trovarli}{26}{subparagraph.3.3.18.3.2}%
-\contentsline {paragraph}{\numberline {3.3.18.4}Pattuglia ESt}{26}{paragraph.3.3.18.4}%
-\contentsline {subparagraph}{\numberline {3.3.18.4.1}Nemici:}{26}{subparagraph.3.3.18.4.1}%
-\contentsline {subparagraph}{\numberline {3.3.18.4.2}Difficoltà Trovarli}{26}{subparagraph.3.3.18.4.2}%
-\contentsline {subsection}{\numberline {3.4}Guest}{26}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}CONYBERRY E LA TANA DI AGATHA}{26}{subsubsection.3.4.1}%
-\contentsline {subparagraph}{\numberline {3.4.1.0.1}Viaggio}{26}{subparagraph.3.4.1.0.1}%
-\contentsline {subparagraph}{\numberline {3.4.1.0.2}Descrizione per Agatha}{26}{subparagraph.3.4.1.0.2}%
-\contentsline {subparagraph}{\numberline {3.4.1.0.3}Comportamento dei personaggi}{27}{subparagraph.3.4.1.0.3}%
-\contentsline {subparagraph}{\numberline {3.4.1.0.4}PE}{27}{subparagraph.3.4.1.0.4}%
-\contentsline {subsubsection}{\numberline {3.4.2}IL Pozzo DEL VECCHIO GUFO}{27}{subsubsection.3.4.2}%
-\contentsline {subparagraph}{\numberline {3.4.2.0.1}Viaggio}{27}{subparagraph.3.4.2.0.1}%
-\contentsline {subparagraph}{\numberline {3.4.2.0.2}Descrizione}{27}{subparagraph.3.4.2.0.2}%
-\contentsline {subparagraph}{\numberline {3.4.2.0.3}Se sconfiggono Kost e gli zombie}{28}{subparagraph.3.4.2.0.3}%
-\contentsline {subparagraph}{\numberline {3.4.2.0.4}PE}{28}{subparagraph.3.4.2.0.4}%
-\contentsline {subsubsection}{\numberline {3.4.3}IL TOR DELLA VIVERNA}{28}{subsubsection.3.4.3}%
-\contentsline {paragraph}{\numberline {3.4.3.1}Viaggio}{28}{paragraph.3.4.3.1}%
-\contentsline {paragraph}{\numberline {3.4.3.2}Accamapento degli orchi}{29}{paragraph.3.4.3.2}%
-\contentsline {paragraph}{\numberline {3.4.3.3}Tesoro}{29}{paragraph.3.4.3.3}%
-\contentsline {paragraph}{\numberline {3.4.3.4}PE}{29}{paragraph.3.4.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.4}Il Castello di Cragmaw}{29}{subsubsection.3.4.4}%
-\contentsline {subparagraph}{\numberline {3.4.4.0.1}Tratti Generali}{29}{subparagraph.3.4.4.0.1}%
-\contentsline {paragraph}{\numberline {3.4.4.1}Entrata del Castello}{30}{paragraph.3.4.4.1}%
-\contentsline {subparagraph}{\numberline {3.4.4.1.1}Sviluppi}{30}{subparagraph.3.4.4.1.1}%
-\contentsline {paragraph}{\numberline {3.4.4.2}Sala con Trappola}{30}{paragraph.3.4.4.2}%
-\contentsline {paragraph}{\numberline {3.4.4.3}POSTAZIONE DEGLI ARCIERI}{31}{paragraph.3.4.4.3}%
-\contentsline {paragraph}{\numberline {3.4.4.4} Dormitori in Rovina}{31}{paragraph.3.4.4.4}%
-\contentsline {subparagraph}{\numberline {3.4.4.4.1}Sviluppi}{31}{subparagraph.3.4.4.4.1}%
-\contentsline {paragraph}{\numberline {3.4.4.5} Magazzino }{31}{paragraph.3.4.4.5}%
-\contentsline {paragraph}{\numberline {3.4.4.6}DORMITORIO DEGLI HOBGBOLIN}{31}{paragraph.3.4.4.6}%
-\contentsline {paragraph}{\numberline {3.4.4.7}SALA DEI BANCHETTI}{32}{paragraph.3.4.4.7}%
-\contentsline {paragraph}{\numberline {3.4.4.8}SALA BUIA}{32}{paragraph.3.4.4.8}%
-\contentsline {subparagraph}{\numberline {3.4.4.8.1}Sviluppi}{32}{subparagraph.3.4.4.8.1}%
-\contentsline {subparagraph}{\numberline {3.4.4.8.2}Tesoro}{32}{subparagraph.3.4.4.8.2}%
+\contentsline {section}{\numberline {1}Nemici}{4}{section.1}%
+\contentsline {section}{\numberline {2}PNG\_Compagni}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Kai Serenestep}{7}{subsection.2.1}%
+\contentsline {section}{\numberline {3}La miniera perduta di Phandelver (liv 1 - 5)}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Inizio}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Il nascondiglio dei Cragmaw}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Postazione Vedetta}{8}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Canile}{8}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Passaggio Scosceso}{9}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Passaggio Rialzato}{9}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Covo dei Goblin}{10}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Caverna delle Due Vasche}{11}{subsubsection.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.7}Caverna di Klarg}{11}{subsubsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.3}Phandalin}{12}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Descrizione Per Phandalin}{12}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}PNG\_PHANDALIN}{13}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Fabbro: Il Martellatore}{13}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Falegname: La sega umana}{13}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Locanda Stonehill}{13}{subsubsection.3.3.5}%
+\contentsline {paragraph}{\numberline {3.3.5.1}Presentazione}{13}{paragraph.3.3.5.1}%
+\contentsline {paragraph}{\numberline {3.3.5.2}Descrizione}{13}{paragraph.3.3.5.2}%
+\contentsline {paragraph}{\numberline {3.3.5.3}Dicerie}{13}{paragraph.3.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.3.6}PROVVISTE DI BARTHEN}{14}{subsubsection.3.3.6}%
+\contentsline {paragraph}{\numberline {3.3.6.1}Consegnare le Provviste}{14}{paragraph.3.3.6.1}%
+\contentsline {paragraph}{\numberline {3.3.6.2}Le Notizie di Barthen}{14}{paragraph.3.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.3.7}Frutteto Edermath}{14}{subsubsection.3.3.7}%
+\contentsline {paragraph}{\numberline {3.3.7.1}Problemi al Vecchio Gufo}{15}{paragraph.3.3.7.1}%
+\contentsline {paragraph}{\numberline {3.3.7.2}Conseguenze: UNIRSI ALL'ORDINE DEL GUANTO D'ARME }{15}{paragraph.3.3.7.2}%
+\contentsline {subsubsection}{\numberline {3.3.8}Scudo del Leone}{15}{subsubsection.3.3.8}%
+\contentsline {paragraph}{\numberline {3.3.8.1}Descrizione}{15}{paragraph.3.3.8.1}%
+\contentsline {paragraph}{\numberline {3.3.8.2}Missione}{15}{paragraph.3.3.8.2}%
+\contentsline {paragraph}{\numberline {3.3.8.3}Merci Recuperate}{15}{paragraph.3.3.8.3}%
+\contentsline {subsubsection}{\numberline {3.3.9}Borsa dei minatori Di Phandalin}{15}{subsubsection.3.3.9}%
+\contentsline {paragraph}{\numberline {3.3.9.1}Missione: L’Offerta di Lavoro di Halia.}{16}{paragraph.3.3.9.1}%
+\contentsline {paragraph}{\numberline {3.3.9.2}UNIRSI AGLI ZHENTARIM}{16}{paragraph.3.3.9.2}%
+\contentsline {subsubsection}{\numberline {3.3.10}FATTORIA ALDERLEAF}{16}{subsubsection.3.3.10}%
+\contentsline {paragraph}{\numberline {3.3.10.1}La Storia di Carp.}{16}{paragraph.3.3.10.1}%
+\contentsline {paragraph}{\numberline {3.3.10.2}Missione: Reidoth il Druido.}{16}{paragraph.3.3.10.2}%
+\contentsline {subsubsection}{\numberline {3.3.11}SANTUARIO DELLA FORTUNA}{16}{subsubsection.3.3.11}%
+\contentsline {paragraph}{\numberline {3.3.11.1}Missione: Il Patto con la Banshee.}{16}{paragraph.3.3.11.1}%
+\contentsline {paragraph}{\numberline {3.3.11.2}Conseguenze: UNIRSI AGLI ARPISTI }{17}{paragraph.3.3.11.2}%
+\contentsline {subsubsection}{\numberline {3.3.12}IL GIGANTE ADDORMENTATO}{17}{subsubsection.3.3.12}%
+\contentsline {subsubsection}{\numberline {3.3.13}VILLA DEL BORGOMASTRO}{17}{subsubsection.3.3.13}%
+\contentsline {paragraph}{\numberline {3.3.13.1}Descrizione}{17}{paragraph.3.3.13.1}%
+\contentsline {paragraph}{\numberline {3.3.13.2}Indizi}{17}{paragraph.3.3.13.2}%
+\contentsline {paragraph}{\numberline {3.3.13.3}Missione: Problemi con gli Orchi.}{17}{paragraph.3.3.13.3}%
+\contentsline {subsubsection}{\numberline {3.3.14}MANIERO TRESENDAR}{18}{subsubsection.3.3.14}%
+\contentsline {subsubsection}{\numberline {3.3.15}MALVIVENTI DEI MARCHI ROSSI}{18}{subsubsection.3.3.15}%
+\contentsline {subsubsection}{\numberline {3.3.16}FACCIA A FACCIA}{18}{subsubsection.3.3.16}%
+\contentsline {paragraph}{\numberline {3.3.16.1}Sviluppi}{18}{paragraph.3.3.16.1}%
+\contentsline {paragraph}{\numberline {3.3.16.2}I Giocatori Hanno Bisogno DI INDICAZIONI?}{19}{paragraph.3.3.16.2}%
+\contentsline {paragraph}{\numberline {3.3.16.3}Cosa sanno i marchi rossi}{19}{paragraph.3.3.16.3}%
+\contentsline {subsubsection}{\numberline {3.3.17}IL NASCONDIGLIO DEI MARCHI ROSSI}{19}{subsubsection.3.3.17}%
+\contentsline {paragraph}{\numberline {3.3.17.1}Tratti Generali}{19}{paragraph.3.3.17.1}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.1}Cantina}{19}{subparagraph.3.3.17.1.1}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.2}Dormitorio}{21}{subparagraph.3.3.17.1.2}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.3}Corridoio con Trappola}{21}{subparagraph.3.3.17.1.3}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.4}Cripte Di Tresendar}{21}{subparagraph.3.3.17.1.4}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.5}Recinti Degli Schiavi}{21}{subparagraph.3.3.17.1.5}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.6}Armeria}{22}{subparagraph.3.3.17.1.6}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.7}Magazzino e Officina}{22}{subparagraph.3.3.17.1.7}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.8}Crepaccio}{22}{subparagraph.3.3.17.1.8}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.9}Dormitorio delle guardie}{24}{subparagraph.3.3.17.1.9}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.10}Sala Comune}{24}{subparagraph.3.3.17.1.10}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.11}Laboratorio del mago}{25}{subparagraph.3.3.17.1.11}%
+\contentsline {subparagraph}{\numberline {3.3.17.1.12}Alloggi di Bastone di vetro}{25}{subparagraph.3.3.17.1.12}%
+\contentsline {subsubsection}{\numberline {3.3.18}Pattuglia di Goblin}{26}{subsubsection.3.3.18}%
+\contentsline {paragraph}{\numberline {3.3.18.1}Pattuglia Nord}{26}{paragraph.3.3.18.1}%
+\contentsline {subparagraph}{\numberline {3.3.18.1.1}Nemici:}{26}{subparagraph.3.3.18.1.1}%
+\contentsline {subparagraph}{\numberline {3.3.18.1.2}Difficoltà Trovarli}{27}{subparagraph.3.3.18.1.2}%
+\contentsline {paragraph}{\numberline {3.3.18.2}Pattuglia Sud}{27}{paragraph.3.3.18.2}%
+\contentsline {subparagraph}{\numberline {3.3.18.2.1}Nemici:}{27}{subparagraph.3.3.18.2.1}%
+\contentsline {subparagraph}{\numberline {3.3.18.2.2}Difficoltà Trovarli}{27}{subparagraph.3.3.18.2.2}%
+\contentsline {paragraph}{\numberline {3.3.18.3}Pattuglia Ovest}{27}{paragraph.3.3.18.3}%
+\contentsline {subparagraph}{\numberline {3.3.18.3.1}Nemici:}{27}{subparagraph.3.3.18.3.1}%
+\contentsline {subparagraph}{\numberline {3.3.18.3.2}Difficoltà Trovarli}{27}{subparagraph.3.3.18.3.2}%
+\contentsline {paragraph}{\numberline {3.3.18.4}Pattuglia ESt}{27}{paragraph.3.3.18.4}%
+\contentsline {subparagraph}{\numberline {3.3.18.4.1}Nemici:}{27}{subparagraph.3.3.18.4.1}%
+\contentsline {subparagraph}{\numberline {3.3.18.4.2}Difficoltà Trovarli}{27}{subparagraph.3.3.18.4.2}%
+\contentsline {subsection}{\numberline {3.4}Guest}{27}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}CONYBERRY E LA TANA DI AGATHA}{27}{subsubsection.3.4.1}%
+\contentsline {subparagraph}{\numberline {3.4.1.0.1}Viaggio}{27}{subparagraph.3.4.1.0.1}%
+\contentsline {subparagraph}{\numberline {3.4.1.0.2}Descrizione per Agatha}{27}{subparagraph.3.4.1.0.2}%
+\contentsline {subparagraph}{\numberline {3.4.1.0.3}Comportamento dei personaggi}{28}{subparagraph.3.4.1.0.3}%
+\contentsline {subparagraph}{\numberline {3.4.1.0.4}PE}{28}{subparagraph.3.4.1.0.4}%
+\contentsline {subsubsection}{\numberline {3.4.2}IL Pozzo DEL VECCHIO GUFO}{28}{subsubsection.3.4.2}%
+\contentsline {subparagraph}{\numberline {3.4.2.0.1}Viaggio}{28}{subparagraph.3.4.2.0.1}%
+\contentsline {subparagraph}{\numberline {3.4.2.0.2}Descrizione}{28}{subparagraph.3.4.2.0.2}%
+\contentsline {subparagraph}{\numberline {3.4.2.0.3}Se sconfiggono Kost e gli zombie}{29}{subparagraph.3.4.2.0.3}%
+\contentsline {subparagraph}{\numberline {3.4.2.0.4}PE}{29}{subparagraph.3.4.2.0.4}%
+\contentsline {subsubsection}{\numberline {3.4.3}IL TOR DELLA VIVERNA}{29}{subsubsection.3.4.3}%
+\contentsline {paragraph}{\numberline {3.4.3.1}Viaggio}{29}{paragraph.3.4.3.1}%
+\contentsline {paragraph}{\numberline {3.4.3.2}Accamapento degli orchi}{30}{paragraph.3.4.3.2}%
+\contentsline {paragraph}{\numberline {3.4.3.3}Tesoro}{30}{paragraph.3.4.3.3}%
+\contentsline {paragraph}{\numberline {3.4.3.4}PE}{30}{paragraph.3.4.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.4}Il Castello di Cragmaw}{30}{subsubsection.3.4.4}%
+\contentsline {subparagraph}{\numberline {3.4.4.0.1}Tratti Generali}{30}{subparagraph.3.4.4.0.1}%
+\contentsline {paragraph}{\numberline {3.4.4.1}Entrata del Castello}{31}{paragraph.3.4.4.1}%
+\contentsline {subparagraph}{\numberline {3.4.4.1.1}Sviluppi}{31}{subparagraph.3.4.4.1.1}%
+\contentsline {paragraph}{\numberline {3.4.4.2}Sala con Trappola}{31}{paragraph.3.4.4.2}%
+\contentsline {paragraph}{\numberline {3.4.4.3}POSTAZIONE DEGLI ARCIERI}{32}{paragraph.3.4.4.3}%
+\contentsline {paragraph}{\numberline {3.4.4.4} Dormitori in Rovina}{32}{paragraph.3.4.4.4}%
+\contentsline {subparagraph}{\numberline {3.4.4.4.1}Sviluppi}{32}{subparagraph.3.4.4.4.1}%
+\contentsline {paragraph}{\numberline {3.4.4.5} Magazzino }{32}{paragraph.3.4.4.5}%
+\contentsline {paragraph}{\numberline {3.4.4.6}DORMITORIO DEGLI HOBGBOLIN}{32}{paragraph.3.4.4.6}%
+\contentsline {paragraph}{\numberline {3.4.4.7}SALA DEI BANCHETTI}{33}{paragraph.3.4.4.7}%
+\contentsline {paragraph}{\numberline {3.4.4.8}SALA BUIA}{33}{paragraph.3.4.4.8}%
+\contentsline {subparagraph}{\numberline {3.4.4.8.1}Sviluppi}{33}{subparagraph.3.4.4.8.1}%
+\contentsline {subparagraph}{\numberline {3.4.4.8.2}Tesoro}{33}{subparagraph.3.4.4.8.2}%
+\contentsline {paragraph}{\numberline {3.4.4.9}SANTUARIO DEI GOBLIN}{33}{paragraph.3.4.4.9}%
+\contentsline {subparagraph}{\numberline {3.4.4.9.1}Descrizione}{33}{subparagraph.3.4.4.9.1}%
+\contentsline {subparagraph}{\numberline {3.4.4.9.2}Tesoro}{34}{subparagraph.3.4.4.9.2}%
+\contentsline {paragraph}{\numberline {3.4.4.10}CANCELLO POSTERIORE}{34}{paragraph.3.4.4.10}%
+\contentsline {subparagraph}{\numberline {3.4.4.10.1}Descrizione}{34}{subparagraph.3.4.4.10.1}%
+\contentsline {paragraph}{\numberline {3.4.4.11}TORRE IN ROVINA}{34}{paragraph.3.4.4.11}%
+\contentsline {subparagraph}{\numberline {3.4.4.11.1}Descrizione }{34}{subparagraph.3.4.4.11.1}%
+\contentsline {paragraph}{\numberline {3.4.4.12}Dormitorio delle guardie}{34}{paragraph.3.4.4.12}%
+\contentsline {subparagraph}{\numberline {3.4.4.12.1}Descrizione}{34}{subparagraph.3.4.4.12.1}%
+\contentsline {paragraph}{\numberline {3.4.4.13}TORRE DELL'ORSOGUFO}{35}{paragraph.3.4.4.13}%
+\contentsline {subparagraph}{\numberline {3.4.4.13.1}Descrizione}{35}{subparagraph.3.4.4.13.1}%
+\contentsline {subparagraph}{\numberline {3.4.4.13.2}Sviluppi}{35}{subparagraph.3.4.4.13.2}%
+\contentsline {subparagraph}{\numberline {3.4.4.13.3}Tesoro}{35}{subparagraph.3.4.4.13.3}%
+\contentsline {paragraph}{\numberline {3.4.4.14}Alloggi del RE}{35}{paragraph.3.4.4.14}%
+\contentsline {subparagraph}{\numberline {3.4.4.14.1}Descrizione}{35}{subparagraph.3.4.4.14.1}%
+\contentsline {subparagraph}{\numberline {3.4.4.14.2}Sviulppi}{36}{subparagraph.3.4.4.14.2}%
+\contentsline {subparagraph}{\numberline {3.4.4.14.3}Tesoro}{36}{subparagraph.3.4.4.14.3}%
+\contentsline {paragraph}{\numberline {3.4.4.15}Opzionale: IL RITORNO DELLA BANDA DA GUERRA}{36}{paragraph.3.4.4.15}%
+\contentsline {paragraph}{\numberline {3.4.4.16}Cosa succede ora?}{37}{paragraph.3.4.4.16}%

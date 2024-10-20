@@ -231,13 +231,3 @@ INPUT ../Mostri/Cavaliere.png
 INPUT ../Mostri/Cavaliere.png
 INPUT ../Mostri/Cavaliere.png
 INPUT d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT Gruppo_C.aux
-INPUT ./Gruppo_C.out
-INPUT ./Gruppo_C.out
-INPUT c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk
-INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
