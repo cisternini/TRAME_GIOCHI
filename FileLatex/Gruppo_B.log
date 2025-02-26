@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  15 SEP 2024 19:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  22 FEB 2025 19:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -305,203 +305,98 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-[2]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 22.
-<../Mostri/Doberman.png, id=318, 290.2845pt x 354.123pt>
-File: ../Mostri/Doberman.png Graphic file (type png)
-<use ../Mostri/Doberman.png>
-Package pdftex.def Info: ../Mostri/Doberman.png  used on input line 31.
-(pdftex.def)             Requested size: 113.80846pt x 170.71738pt.
-<../Mostri/mago.png, id=320, 267.399pt x 444.4605pt>
-File: ../Mostri/mago.png Graphic file (type png)
-<use ../Mostri/mago.png>
-Package pdftex.def Info: ../Mostri/mago.png  used on input line 31.
-(pdftex.def)             Requested size: 113.8124pt x 170.7143pt.
-<../Mostri/Granchio Gigante.PNG, id=321, 312.56775pt x 318.59026pt>
-File: ../Mostri/Granchio Gigante.PNG Graphic file (type png)
-<use ../Mostri/Granchio Gigante.PNG>
-Package pdftex.def Info: ../Mostri/Granchio Gigante.PNG  used on input line 31.
-(pdftex.def)             Requested size: 113.81203pt x 170.71877pt.
-<../Mostri/Bullywug.PNG, id=322, 295.1025pt x 519.74174pt>
-File: ../Mostri/Bullywug.PNG Graphic file (type png)
-<use ../Mostri/Bullywug.PNG>
-Package pdftex.def Info: ../Mostri/Bullywug.PNG  used on input line 31.
-(pdftex.def)             Requested size: 113.81068pt x 170.71431pt.
-<../Mostri/Mastino.PNG, id=323, 280.6485pt x 335.45325pt>
-File: ../Mostri/Mastino.PNG Graphic file (type png)
-<use ../Mostri/Mastino.PNG>
-Package pdftex.def Info: ../Mostri/Mastino.PNG  used on input line 34.
-(pdftex.def)             Requested size: 113.81189pt x 170.72058pt.
-<../Mostri/ReDeiRospi.PNG, id=324, 286.671pt x 504.6855pt>
-File: ../Mostri/ReDeiRospi.PNG Graphic file (type png)
-<use ../Mostri/ReDeiRospi.PNG>
-Package pdftex.def Info: ../Mostri/ReDeiRospi.PNG  used on input line 34.
-(pdftex.def)             Requested size: 113.81339pt x 170.7206pt.
-<../Mostri/Sciame di Quippers.PNG, id=325, 286.06876pt x 448.67625pt>
-File: ../Mostri/Sciame di Quippers.PNG Graphic file (type png)
-<use ../Mostri/Sciame di Quippers.PNG>
-Package pdftex.def Info: ../Mostri/Sciame di Quippers.PNG  used on input line 34.
-(pdftex.def)             Requested size: 113.81pt x 170.71098pt.
-<../Mostri/Orco.PNG, id=326, 299.31825pt x 391.4625pt>
-File: ../Mostri/Orco.PNG Graphic file (type png)
-<use ../Mostri/Orco.PNG>
-Package pdftex.def Info: ../Mostri/Orco.PNG  used on input line 34.
-(pdftex.def)             Requested size: 113.81062pt x 170.71487pt.
-<../Mostri/Bandito.PNG, id=327, 327.47343pt x 548.0475pt>
-File: ../Mostri/Bandito.PNG Graphic file (type png)
-<use ../Mostri/Bandito.PNG>
-Package pdftex.def Info: ../Mostri/Bandito.PNG  used on input line 37.
-(pdftex.def)             Requested size: 113.80792pt x 170.72086pt.
-<../Mostri/Kenku.PNG, id=328, 301.125pt x 465.53925pt>
-File: ../Mostri/Kenku.PNG Graphic file (type png)
-<use ../Mostri/Kenku.PNG>
-Package pdftex.def Info: ../Mostri/Kenku.PNG  used on input line 37.
-(pdftex.def)             Requested size: 113.81297pt x 170.71245pt.
-<../Mostri/Troll.PNG, id=329, 296.307pt x 466.1415pt>
-File: ../Mostri/Troll.PNG Graphic file (type png)
-<use ../Mostri/Troll.PNG>
-Package pdftex.def Info: ../Mostri/Troll.PNG  used on input line 37.
-(pdftex.def)             Requested size: 113.80952pt x 170.71991pt.
-<../Mostri/Malvivente.PNG, id=330, 348.55219pt x 557.83406pt>
-File: ../Mostri/Malvivente.PNG Graphic file (type png)
-<use ../Mostri/Malvivente.PNG>
-Package pdftex.def Info: ../Mostri/Malvivente.PNG  used on input line 37.
-(pdftex.def)             Requested size: 113.80995pt x 170.71368pt.
-
-Overfull \hbox (19.55121pt too wide) in paragraph at lines 28--40
- [][] 
- []
-
-<../PNG/Duran.png, id=331, 211.38976pt x 420.3705pt>
-File: ../PNG/Duran.png Graphic file (type png)
-<use ../PNG/Duran.png>
-Package pdftex.def Info: ../PNG/Duran.png  used on input line 47.
-(pdftex.def)             Requested size: 113.8133pt x 170.71736pt.
-<../Mostri/Gnomo_delle_profondita.png, id=332, 224.037pt x 434.8245pt>
-File: ../Mostri/Gnomo_delle_profondita.png Graphic file (type png)
-<use ../Mostri/Gnomo_delle_profondita.png>
-Package pdftex.def Info: ../Mostri/Gnomo_delle_profondita.png  used on input line 47.
-(pdftex.def)             Requested size: 113.81294pt x 170.71542pt.
-<../Mostri/Guardia.png, id=333, 218.0145pt x 245.11575pt>
-File: ../Mostri/Guardia.png Graphic file (type png)
-<use ../Mostri/Guardia.png>
-Package pdftex.def Info: ../Mostri/Guardia.png  used on input line 47.
-(pdftex.def)             Requested size: 113.81395pt x 170.7196pt.
-<../PNG/Reaner_Nevember_Spadaccino.png, id=334, 275.22826pt x 381.22424pt>
-File: ../PNG/Reaner_Nevember_Spadaccino.png Graphic file (type png)
-<use ../PNG/Reaner_Nevember_Spadaccino.png>
-Package pdftex.def Info: ../PNG/Reaner_Nevember_Spadaccino.png  used on input line 47.
-(pdftex.def)             Requested size: 113.81023pt x 170.71748pt.
-File: ../Mostri/Guardia.png Graphic file (type png)
-<use ../Mostri/Guardia.png>
-Package pdftex.def Info: ../Mostri/Guardia.png  used on input line 51.
-(pdftex.def)             Requested size: 113.81395pt x 170.7196pt.
-<../Mostri/Veterano.png, id=335, 295.70474pt x 495.0495pt>
-File: ../Mostri/Veterano.png Graphic file (type png)
-<use ../Mostri/Veterano.png>
-Package pdftex.def Info: ../Mostri/Veterano.png  used on input line 51.
-(pdftex.def)             Requested size: 113.80832pt x 170.71672pt.
-File: ../Mostri/Veterano.png Graphic file (type png)
-<use ../Mostri/Veterano.png>
-Package pdftex.def Info: ../Mostri/Veterano.png  used on input line 51.
-(pdftex.def)             Requested size: 113.80832pt x 170.71672pt.
-<../Mostri/Cavaliere.png, id=336, 250.68657pt x 554.07pt>
-File: ../Mostri/Cavaliere.png Graphic file (type png)
-<use ../Mostri/Cavaliere.png>
-Package pdftex.def Info: ../Mostri/Cavaliere.png  used on input line 51.
-(pdftex.def)             Requested size: 113.81009pt x 170.71158pt.
-
-Overfull \hbox (36.23341pt too wide) in paragraph at lines 44--56
- [][] 
- []
 
 
+[2]
 
 [3]
 
-[4 <../Mostri/Doberman.png> <../Mostri/mago.png> <../Mostri/Granchio Gigante.PNG> <../Mostri/Bullywug.PNG> <../Mostri/Mastino.PNG> <../Mostri/ReDeiRospi.PNG> <../Mostri/Sciame di Quippers.PNG> <../Mostri/Orco.PNG> <../Mostri/Bandito.png> <../Mostri/Kenku.PNG> <../Mostri/Troll.PNG> <../Mostri/Malvivente.png>]
+[4]
 
-[5 <../PNG/Duran.png> <../Mostri/Gnomo_delle_profondita.png> <../Mostri/Guardia.png> <../PNG/Reaner_Nevember_Spadaccino.png> <../Mostri/Veterano.png> <../Mostri/Cavaliere.png>]
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 152.
+
+
+
+[5]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 198.
+
+
 
 [6]
 
 [7]
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 182.
-
-
-
 [8]
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 228.
-
-
-
 [9]
+Underfull \hbox (badness 10000) in paragraph at lines 418--420
+
+ []
+
+
 
 [10]
+Underfull \hbox (badness 10000) in paragraph at lines 439--443
+
+ []
+
+
 
 [11]
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 448--450
+Underfull \hbox (badness 10000) in paragraph at lines 524--531
 
  []
 
 
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 469--473
-
- []
-
-
 
 [14]
 
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 554--561
-
- []
-
-
-
-[16]
-
-[17]
-
-[18] (./Gruppo_B.aux)
+[15] (./Gruppo_B.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `Gruppo_B.out' has not changed.
-(rerunfilecheck)             Checksum: 0FB275CDC592BFBD832CB88D454CB27B;9554.
+(rerunfilecheck)             Checksum: 6AB7D88D96FA426B55AA746E8CCECD9F;9466.
  ) 
 Here is how much of TeX's memory you used:
- 10371 strings out of 475500
- 164073 string characters out of 5776842
+ 10226 strings out of 475500
+ 160030 string characters out of 5776842
  1959908 words of memory out of 5000000
- 32792 multiletter control sequences out of 15000+600000
+ 32662 multiletter control sequences out of 15000+600000
  563306 words of font info for 53 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,12n,79p,1178b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1178b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Renaer} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{kenk} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{urstul} has been referenced but does not exist, replaced by a fixed one
 
 
+pdfTeX warning (dest): name{Duran} has been referenced but does not exist, replaced by a fixed one
+
+
 pdfTeX warning (dest): name{uccelli} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{troll} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{yagra} has been referenced but does not exist, replaced by a fixed one
@@ -512,11 +407,23 @@ pdfTeX warning (dest): name{krent} has been referenced but does not exist, repla
 
 pdfTeX warning (dest): name{banditi} has been referenced but does not exist, replaced by a fixed one
 
+
+pdfTeX warning (dest): name{re} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{sciame} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{granchio} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{uomorana} has been referenced but does not exist, replaced by a fixed one
+
  <c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Gruppo_B.pdf (18 pages, 6612127 bytes).
+Output written on Gruppo_B.pdf (15 pages, 178206 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 464 compressed objects within 5 object streams
- 116 named destinations out of 1000 (max. 500000)
- 571 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 472 PDF objects out of 1000 (max. 8388607)
+ 434 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 473 words of extra memory for PDF output out of 10000 (max. 10000000)
 

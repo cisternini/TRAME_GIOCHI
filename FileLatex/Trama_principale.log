@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  4 OCT 2024 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.12)  21 FEB 2025 02:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -508,6 +508,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [35]
 
 [36]
+
+[37]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -540,21 +542,312 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../Mappe/AdattataNenerWuter.jpg, id=845, 3199.45313pt x 2472.23625pt>
+<../Mappe/AdattataNenerWuter.jpg, id=852, 3199.45313pt x 2472.23625pt>
 File: ../Mappe/AdattataNenerWuter.jpg Graphic file (type jpg)
 <use ../Mappe/AdattataNenerWuter.jpg>
-Package pdftex.def Info: ../Mappe/AdattataNenerWuter.jpg  used on input line 815.
+Package pdftex.def Info: ../Mappe/AdattataNenerWuter.jpg  used on input line 816.
 (pdftex.def)             Requested size: 799.86133pt x 618.05756pt.
 
-Overfull \hbox (200.56633pt too wide) in paragraph at lines 815--816
+Overfull \hbox (200.56633pt too wide) in paragraph at lines 816--817
 [][] 
  []
 
 
 
-[37
+[38
 
 
- <../Mappe/AdattataNenerWuter.jpg
-!pdfTeX error: pdflatex.exe (file ../Mappe/AdattataNenerWuter.jpg): fflush() failed (Invalid argument)
- ==> Fatal error occurred, no output PDF file produced!
+ <../Mappe/AdattataNenerWuter.jpg>]
+
+[39
+
+]
+Overfull \hbox (17.94064pt too wide) in paragraph at lines 869--871
+\OT1/cmr/m/n/10 Tra questi, Maskado's si oc-cu-pava in par-ti-co-lare di mappe, reg-istri e in-for-mazioni rel-a-tive all'esplorazione
+ []
+
+
+
+[40]
+
+[41]
+<../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg, id=878, 484.81125pt x 508.90125pt>
+File: ../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg Graphic file (type jpg)
+<use ../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg>
+Package pdftex.def Info: ../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg  used on input line 920.
+(pdftex.def)             Requested size: 426.81276pt x 341.44351pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--928
+
+ []
+
+
+
+[42]
+
+[43 <../Utilita/linguaggiodelLeviatanoSpiaggiato.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 929--934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 949--951
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 949--951
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
+
+ []
+
+
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 970--971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 970--971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 972--976
+
+ []
+
+
+
+[45]
+
+[46]
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1094--1096
+
+ []
+
+
+
+[48]
+Overfull \hbox (0.24611pt too wide) in paragraph at lines 1108--1112
+\OT1/cmr/m/n/10 Rebeth Laereeryn mezzelfo con un in-can-tes-imo pu^^Ro im-pedire che tutti i suoni prove-ni-enti dall'interno
+ []
+
+
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1163
+
+ []
+
+
+
+[50]
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 1239--1240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1246
+
+ []
+
+
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 1540--1542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1545--1547
+
+ []
+
+
+
+[61]
+
+[62]
+Overfull \hbox (5.98875pt too wide) in paragraph at lines 1619--1622
+ \OT1/cmr/bx/n/10 7.1.2.11 Il ri-poso del pel-le-grino[] Tipo\OT1/cmr/m/n/10 : Lo-canda \OT1/cmr/bx/n/10 Pi-ani\OT1/cmr/m/n/10 : 3 \OT1/cmr/bx/n/10 Pro-pri-etario\OT1/cmr/m/n/10 : []Bal-aghast Brightlin-
+ []
+
+
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 1812--1815
+
+ []
+
+
+
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 1828--1835
+
+ []
+
+
+
+[69]
+
+[70]
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1967
+
+ []
+
+
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
+
+ []
+
+
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 2147--2149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2163--2165
+
+ []
+
+
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 2192--2193
+
+ []
+
+
+
+[78]
+Overfull \hbox (9.49016pt too wide) in paragraph at lines 2221--2222
+ []\OT1/cmr/bx/n/10 Descrizione[] \OT1/cmr/m/n/10 Il Rifu-gio Dan-zante era un pic-colo boschetto di al-beri, pi-antati e cresciuti all'interno
+ []
+
+
+
+[79]
+
+[80]
+
+[81]
+
+[82]
+
+[83]
+
+[84]
+
+[85]
+
+[86] (./Trama_principale.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+Package rerunfilecheck Info: File `Trama_principale.out' has not changed.
+(rerunfilecheck)             Checksum: EEABE1469CF3581D622EBF7B915F4084;18525.
+ ) 
+Here is how much of TeX's memory you used:
+ 11331 strings out of 475500
+ 178303 string characters out of 5776842
+ 1949908 words of memory out of 5000000
+ 33291 multiletter control sequences out of 15000+600000
+ 563665 words of font info for 54 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 75i,11n,79p,4422b,634s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{ash} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{alagondar} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{et} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{leviatano} has been referenced but does not exist, replaced by a fixed one
+
+ <c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Trama_principale.pdf (86 pages, 8561253 bytes).
+PDF statistics:
+ 1486 PDF objects out of 1728 (max. 8388607)
+ 1363 compressed objects within 14 object streams
+ 545 named destinations out of 1000 (max. 500000)
+ 923 words of extra memory for PDF output out of 10000 (max. 10000000)
+
