@@ -1,34 +1,45 @@
-\contentsline {section}{\numberline {1}Trama}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Cammino di resurrezione}{1}{subsection.1.1}%
-\contentsline {paragraph}{\numberline {1.1.0.1}Fonte della Conoscenza}{1}{paragraph.1.1.0.1}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.1}Descrizione}{1}{subparagraph.1.1.0.1.1}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.2}Descrizione della Grande Biblioteca}{1}{subparagraph.1.1.0.1.2}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.3}Incontro Aria Whucknolls:}{2}{subparagraph.1.1.0.1.3}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.4}Descrizione di Aria Whucknolls}{2}{subparagraph.1.1.0.1.4}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.5}Libri procurati da Aria}{2}{subparagraph.1.1.0.1.5}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.6}Lathander e il Suo Culto}{2}{subparagraph.1.1.0.1.6}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.7}Descrizione Fisica e Simbolismo}{2}{subparagraph.1.1.0.1.7}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.8}Il Culto di Lathander}{2}{subparagraph.1.1.0.1.8}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.9}Templi e Cerimonie}{2}{subparagraph.1.1.0.1.9}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.10}Insegnamenti e Dogmi}{3}{subparagraph.1.1.0.1.10}%
-\contentsline {subparagraph}{\numberline {1.1.0.1.11}Festività}{3}{subparagraph.1.1.0.1.11}%
-\contentsline {paragraph}{\numberline {1.1.0.2}Guglie del mattino}{3}{paragraph.1.1.0.2}%
-\contentsline {subparagraph}{\numberline {1.1.0.2.1}Descrizione delle Guglie del Mattino}{3}{subparagraph.1.1.0.2.1}%
-\contentsline {subparagraph}{\numberline {1.1.0.2.2}Esterno}{3}{subparagraph.1.1.0.2.2}%
-\contentsline {subparagraph}{\numberline {1.1.0.2.3}Interno}{3}{subparagraph.1.1.0.2.3}%
-\contentsline {subparagraph}{\numberline {1.1.0.2.4}Parlare con Chierici a Caso}{3}{subparagraph.1.1.0.2.4}%
-\contentsline {subparagraph}{\numberline {1.1.0.2.5}Parlare con Athosar}{3}{subparagraph.1.1.0.2.5}%
-\contentsline {subsubsection}{\numberline {1.1.1}Viaggio verso le Montagne del Tramonto}{4}{subsubsection.1.1.1}%
-\contentsline {paragraph}{\numberline {1.1.1.1}Passaggio Per \href {https://forgottenmaps.web.app/map/Daggerford}{Daggerford}}{4}{paragraph.1.1.1.1}%
-\contentsline {subparagraph}{\numberline {1.1.1.1.1}Descrizione Paesaggio}{5}{subparagraph.1.1.1.1.1}%
-\contentsline {subparagraph}{\numberline {1.1.1.1.2}Cittadina di Daggerford}{5}{subparagraph.1.1.1.1.2}%
-\contentsline {subparagraph}{\numberline {1.1.1.1.3}Guai alla locanda "Il Gizzard Lizzard" }{5}{subparagraph.1.1.1.1.3}%
-\contentsline {subparagraph}{\numberline {1.1.1.1.4}Obbiettivo di Thaila: }{5}{subparagraph.1.1.1.1.4}%
-\contentsline {subparagraph}{\numberline {1.1.1.1.5}Lillithar}{5}{subparagraph.1.1.1.1.5}%
-\contentsline {subparagraph}{\numberline {1.1.1.1.6}Azioni di Levistus}{5}{subparagraph.1.1.1.1.6}%
-\contentsline {subparagraph}{\numberline {1.1.1.1.7}Cosa sa Necrov}{5}{subparagraph.1.1.1.1.7}%
-\contentsline {paragraph}{\numberline {1.1.1.2}Viaggio - Via del commercio}{6}{paragraph.1.1.1.2}%
-\contentsline {subparagraph}{\numberline {1.1.1.2.1}La collina di Gillian}{6}{subparagraph.1.1.1.2.1}%
-\contentsline {subparagraph}{\numberline {1.1.1.2.2}La Tana del Commercio}{6}{subparagraph.1.1.1.2.2}%
-\contentsline {subparagraph}{\numberline {1.1.1.2.3}La Foresta Mistica}{7}{subparagraph.1.1.1.2.3}%
-\contentsline {section}{\numberline {2}IDEE}{7}{section.2}%
+\contentsline {section}{\numberline {1}NPC}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Animali}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Mostri}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Alleati o Personaggi}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Trama}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Cammino di resurrezione}{6}{subsection.2.1}%
+\contentsline {paragraph}{\numberline {2.1.0.1}Fonte della Conoscenza}{6}{paragraph.2.1.0.1}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.1}Descrizione}{6}{subparagraph.2.1.0.1.1}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.2}Descrizione della Grande Biblioteca}{6}{subparagraph.2.1.0.1.2}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.3}Incontro Aria Whucknolls:}{6}{subparagraph.2.1.0.1.3}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.4}Descrizione di Aria Whucknolls}{6}{subparagraph.2.1.0.1.4}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.5}Libri procurati da Aria}{6}{subparagraph.2.1.0.1.5}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.6}Lathander e il Suo Culto}{7}{subparagraph.2.1.0.1.6}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.7}Descrizione Fisica e Simbolismo}{7}{subparagraph.2.1.0.1.7}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.8}Il Culto di Lathander}{7}{subparagraph.2.1.0.1.8}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.9}Templi e Cerimonie}{7}{subparagraph.2.1.0.1.9}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.10}Insegnamenti e Dogmi}{7}{subparagraph.2.1.0.1.10}%
+\contentsline {subparagraph}{\numberline {2.1.0.1.11}Festività}{7}{subparagraph.2.1.0.1.11}%
+\contentsline {paragraph}{\numberline {2.1.0.2}Guglie del mattino}{7}{paragraph.2.1.0.2}%
+\contentsline {subparagraph}{\numberline {2.1.0.2.1}Descrizione delle Guglie del Mattino}{7}{subparagraph.2.1.0.2.1}%
+\contentsline {subparagraph}{\numberline {2.1.0.2.2}Esterno}{7}{subparagraph.2.1.0.2.2}%
+\contentsline {subparagraph}{\numberline {2.1.0.2.3}Interno}{7}{subparagraph.2.1.0.2.3}%
+\contentsline {subparagraph}{\numberline {2.1.0.2.4}Parlare con Chierici a Caso}{8}{subparagraph.2.1.0.2.4}%
+\contentsline {subparagraph}{\numberline {2.1.0.2.5}Parlare con Athosar}{8}{subparagraph.2.1.0.2.5}%
+\contentsline {subsubsection}{\numberline {2.1.1}Viaggio verso le Montagne del Tramonto}{8}{subsubsection.2.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.1}Passaggio Per \href {https://forgottenmaps.web.app/map/Daggerford}{Daggerford}}{9}{paragraph.2.1.1.1}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.1}Descrizione Paesaggio}{9}{subparagraph.2.1.1.1.1}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.2}Cittadina di Daggerford}{9}{subparagraph.2.1.1.1.2}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.3}Guai alla locanda "Il Gizzard Lizzard" }{9}{subparagraph.2.1.1.1.3}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.4}Obbiettivo di Thaila: }{10}{subparagraph.2.1.1.1.4}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.5}Lillithar}{10}{subparagraph.2.1.1.1.5}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.6}Azioni di Levistus}{10}{subparagraph.2.1.1.1.6}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.7}Cosa sa Necrov}{10}{subparagraph.2.1.1.1.7}%
+\contentsline {paragraph}{\numberline {2.1.1.2}Viaggio - Via del commercio}{10}{paragraph.2.1.1.2}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.1}La collina di Gillian}{11}{subparagraph.2.1.1.2.1}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.2}La Tana del Commercio}{11}{subparagraph.2.1.1.2.2}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.3}La Foresta Mistica}{11}{subparagraph.2.1.1.2.3}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.4}Descrizione riepilogo}{12}{subparagraph.2.1.1.2.4}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.5}Ponte di Boareskyr}{12}{subparagraph.2.1.1.2.5}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.6}Soubar}{13}{subparagraph.2.1.1.2.6}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.7}Scornubel}{13}{subparagraph.2.1.1.2.7}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.8}Costa del fiume Reaching}{14}{subparagraph.2.1.1.2.8}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.9}Reaching Woods}{14}{subparagraph.2.1.1.2.9}%
+\contentsline {subparagraph}{\numberline {2.1.1.2.10}Geografia}{14}{subparagraph.2.1.1.2.10}%
+\contentsline {section}{\numberline {3}IDEE}{15}{section.3}%

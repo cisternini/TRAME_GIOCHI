@@ -1,14 +1,14 @@
 # Fdb version 4
-["pdflatex"] 1740249516.70462 "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" "Gruppo_A.pdf" "Gruppo_A" 1740249519.05129 0
+["pdflatex"] 1740613122.08073 "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" "Gruppo_A.pdf" "Gruppo_A" 1740613123.91655 0
   "../Mappe/NascondiglioDeiMarchiRossi.PNG" 1704834882 2438706 973cac06200452fb3c12c421606036ad ""
   "../Mappe/NascondiglioDiCagramaw.PNG" 1702122638 3108968 84acf248c1b500044e4e5697c34ff512 ""
   "../Mappe/Phandalin.PNG" 1706128869 2312636 f4259b56033c2f3cd7584def117992e4 ""
-  "Gruppo_A.aux" 1740249518 17427 2e8afc328927f57a906dff7d680dec2c "pdflatex"
-  "Gruppo_A.out" 1740249518 20443 745ec9d4c9c1162d3ebd95290ee32a22 "pdflatex"
-  "Gruppo_A.tex" 1740249513 138761 c76e0c12c6147e982956810b9309b470 ""
-  "Gruppo_A.toc" 1740249518 12057 30dbc73d830997814ab82561bdee62a2 "pdflatex"
+  "Gruppo_A.aux" 1740613123 19364 c5fdae9ef1bf5f47981370ceaaa31828 "pdflatex"
+  "Gruppo_A.out" 1740613123 22784 728d5407a043292c8bcd938cec2ff0c9 "pdflatex"
+  "Gruppo_A.tex" 1740613119 147879 3b6fd3c5058749a9275fadf6865b2265 ""
+  "Gruppo_A.toc" 1740613123 13481 80d883cfc0d138d3137479c069e4fa57 "pdflatex"
   "c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1711635089 11524 8168045aed71d33b3d113aeee6370d13 ""
-  "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" 1740249513 138761 c76e0c12c6147e982956810b9309b470 ""
+  "d:/DND/Trame_DND/FileLatex/Gruppo_A.tex" 1740613119 147879 3b6fd3c5058749a9275fadf6865b2265 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1710437180 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1710437140 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1710437140 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -83,6 +83,7 @@
   "d:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty" 1711635053 2224 1230ab76aa62221ccbd90bca8c8c015e ""
   "d:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty" 1710437483 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "d:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1710437486 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "d:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty" 1720809031 15033 652f156c2f139501300900190cae68c4 ""
   "d:/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1710437553 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "d:/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1711635054 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "d:/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1711635055 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
@@ -90,10 +91,13 @@
   "d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720809046 77129 dcb794efc8db814f2c6a41343304d231 ""
   "d:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720809114 6879170 20d1439604808845a4028337e9cd6dfa ""
   "d:/texlive/2024/texmf.cnf" 1710437577 713 e69b156964470283e0530f5060668171 ""
+  "inseguimento.aux" 1740613123 868 f5d0ef6426a3b7d9376ca02540b45c3c "pdflatex"
+  "inseguimento.tex" 1740608492 7296 a00fa64fa785b5dbf7596d412e118276 ""
   (generated)
   "Gruppo_A.aux"
   "Gruppo_A.log"
   "Gruppo_A.out"
   "Gruppo_A.pdf"
   "Gruppo_A.toc"
+  "inseguimento.aux"
   (rewritten before read)

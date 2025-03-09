@@ -125,3 +125,18 @@
 \contentsline {subparagraph}{\numberline {2.4.4.14.3}Tesoro}{34}{subparagraph.2.4.4.14.3}%
 \contentsline {paragraph}{\numberline {2.4.4.15}Opzionale: IL RITORNO DELLA BANDA DA GUERRA}{34}{paragraph.2.4.4.15}%
 \contentsline {paragraph}{\numberline {2.4.4.16}Cosa succede ora?}{35}{paragraph.2.4.4.16}%
+\contentsline {paragraph}{\numberline {2.4.4.17}Inseguimento}{36}{paragraph.2.4.4.17}%
+\contentsline {paragraph}{\numberline {2.4.4.18}caratteristiche inseguimento}{39}{paragraph.2.4.4.18}%
+\contentsline {subsubsection}{\numberline {2.4.5}La Caverna dell'onda Tonante}{39}{subsubsection.2.4.5}%
+\contentsline {paragraph}{\numberline {2.4.5.1}Ingresso della Caverna}{40}{paragraph.2.4.5.1}%
+\contentsline {subparagraph}{\numberline {2.4.5.1.1}Descrizione}{40}{subparagraph.2.4.5.1.1}%
+\contentsline {subparagraph}{\numberline {2.4.5.1.2}Cosa fare}{40}{subparagraph.2.4.5.1.2}%
+\contentsline {paragraph}{\numberline {2.4.5.2}Tunnel delle Miniere}{40}{paragraph.2.4.5.2}%
+\contentsline {subparagraph}{\numberline {2.4.5.2.1}Descrizione}{40}{subparagraph.2.4.5.2.1}%
+\contentsline {subparagraph}{\numberline {2.4.5.2.2}Cosa succede}{40}{subparagraph.2.4.5.2.2}%
+\contentsline {paragraph}{\numberline {2.4.5.3}Vecchia Entrata}{41}{paragraph.2.4.5.3}%
+\contentsline {subparagraph}{\numberline {2.4.5.3.1}Descrizione}{41}{subparagraph.2.4.5.3.1}%
+\contentsline {subparagraph}{\numberline {2.4.5.3.2}Cosa succede:}{41}{subparagraph.2.4.5.3.2}%
+\contentsline {paragraph}{\numberline {2.4.5.4}Vecchia sala delle guardie}{41}{paragraph.2.4.5.4}%
+\contentsline {subparagraph}{\numberline {2.4.5.4.1}Descrizione}{41}{subparagraph.2.4.5.4.1}%
+\contentsline {subparagraph}{\numberline {2.4.5.4.2}Cosa succede}{41}{subparagraph.2.4.5.4.2}%
