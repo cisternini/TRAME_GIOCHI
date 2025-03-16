@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1741997218.68501 "d:/DND/Trame_DND/FileLatex/Gruppo_C.tex" "Gruppo_C.pdf" "Gruppo_C" 1741997223.03361 0
+["pdflatex"] 1742150914.42826 "d:/DND/Trame_DND/FileLatex/Gruppo_C.tex" "Gruppo_C.pdf" "Gruppo_C" 1742150919.01574 0
   "../Mappe/Scornubel.PNG.jpg" 1741543053 76255 edfe3c307a6b81734b476f4bc35145cc ""
   "../Mostri/Bandito.png" 1712932253 456672 fb748f430e125eb5b8f8bddb69c5efd9 ""
   "../Mostri/Bugbear.png" 1703116715 264928 fed649318afb55fe3c24ef7f6f0e0fc4 ""
@@ -38,13 +38,13 @@
   "../PNG/Duran.png" 1714773468 481590 8361936f20b3b4e43baf1cc1e4913d8c ""
   "../PNG/Reaner_Nevember_Spadaccino.png" 1714847366 483095 4691b70a9a758e4c806f06b9ee61ca4e ""
   "../PNG/Sildar_Hallwinter.png" 1703114934 101908 edb8bfd61cf6f89b906734b969c69de0 ""
-  "Gruppo_C.aux" 1741997222 6005 91adb13fcb05deb0d78095a5d2cccb35 "pdflatex"
-  "Gruppo_C.out" 1741997222 7688 5973899b757f97ae71b615e0df1aa4df "pdflatex"
-  "Gruppo_C.tex" 1741997217 42775 6c6ab1fbe04fb03edaf0b647d7adbe2a ""
-  "Gruppo_C.toc" 1741997222 4430 234337adefe3ba9e2ab9776f13f721c9 "pdflatex"
+  "Gruppo_C.aux" 1742150918 6005 91adb13fcb05deb0d78095a5d2cccb35 "pdflatex"
+  "Gruppo_C.out" 1742150918 7688 5973899b757f97ae71b615e0df1aa4df "pdflatex"
+  "Gruppo_C.tex" 1742150913 43131 21c3c6d519b389d1c08ae03697abf0fb ""
+  "Gruppo_C.toc" 1742150918 4430 234337adefe3ba9e2ab9776f13f721c9 "pdflatex"
   "c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1000.600pk" 1715349389 12100 2692cb674e1537c2f0321b014463957f ""
   "c:/Users/Giovanni/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1711635089 11524 8168045aed71d33b3d113aeee6370d13 ""
-  "d:/DND/Trame_DND/FileLatex/Gruppo_C.tex" 1741997217 42775 6c6ab1fbe04fb03edaf0b647d7adbe2a ""
+  "d:/DND/Trame_DND/FileLatex/Gruppo_C.tex" 1742150913 43131 21c3c6d519b389d1c08ae03697abf0fb ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcbx1000.tfm" 1710437180 1536 30fde759286ded71559881bfa2623939 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1710437180 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1710437140 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -110,7 +110,7 @@
   "d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720809046 77129 dcb794efc8db814f2c6a41343304d231 ""
   "d:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720809114 6879170 20d1439604808845a4028337e9cd6dfa ""
   "d:/texlive/2024/texmf.cnf" 1710437577 713 e69b156964470283e0530f5060668171 ""
-  "nemici.aux" 1741997222 1028 5106cbc74885de4a398bc3e9eb500bdd "pdflatex"
+  "nemici.aux" 1742150918 1028 5106cbc74885de4a398bc3e9eb500bdd "pdflatex"
   "nemici.tex" 1741992747 5453 057f8c03b00ba59242e9783951b0bde8 ""
   (generated)
   "Gruppo_C.aux"
