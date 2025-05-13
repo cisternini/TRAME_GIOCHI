@@ -1,6 +1,45 @@
-*.synctex.gz
-*.tox
+# File temporanei e di output generati da LaTeX
+*.zip
+*.png
 *.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
 *.log
+*.lot
 *.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.run.xml
+*.bcf
 
+# Cartelle temporanee comuni
+_auto/
+_build/
+latex.out/
+*.dvi
+*.ps
+*.thm
+
+# Esclude tutti tranne .tex e .pdf
+!*.tex
+!*.pdf
+
+*.mp4
